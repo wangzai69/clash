@@ -1,2 +1,44 @@
-# clash
-clash中文教程
+# clash中文教程（终结篇）
+## 代理工具大全
+
+- [Android 系列](#Android)
+- [Windows 系列](#Windows)
+- [Mac OS 系列](#MacOS)
+- [iOS 系列](#iOS)
+- [节点推荐（支持全部代理工具）](#节点推荐)
+
+![Android](https://img.shields.io/badge/安卓-Android-brightgreen)
+![Windows](https://img.shields.io/badge/微软-Windows-blue)
+![MacOS](https://img.shields.io/badge/OS-MacOS-lightgrey)
+![iOS](https://img.shields.io/badge/苹果-iOS-red)
+
+> **最后更新时间：** 2024年10月31日
+
+## Android
+| 名称     | 描述       | 镜像安装       |
+|----------|------------|------------|
+| 功能1   | 描述2 描述2 描述2     | [GitHub](https://github.com)     |
+| 功能2   | 描述2     | 描述2     |
+
+## Windows
+| 名称     | 描述       | 镜像安装       |
+|----------|------------|------------|
+| 功能1   | 描述2     | [GitHub](https://github.com)     |
+| 功能2   | 描述2     | 描述2     |
+
+## MacOS
+| 名称     | 描述       | 镜像安装       |
+|----------|------------|------------|
+| 功能1   | 描述2     | [GitHub](https://github.com)     |
+| 功能2   | 描述2     | 描述2     |
+
+## iOS
+| 名称     | 描述       | 镜像安装       |
+|----------|------------|------------|
+| 功能1   | 描述2     | [GitHub](https://github.com)     |
+| 功能2   | 描述2     | 描述2     |
+
+## 节点推荐
+
+
+
