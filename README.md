@@ -7,53 +7,40 @@
 > ****最后更新时间：**** 2024年10月31日
 
 <br><br><br>
-- [Android 客户端](#Android)
+- [Android 客户端](#Android客户端)
 
-- [Windows 客户端](#Windows)
+- [Windows 客户端](#Windows客户端)
 
-- [Mac 客户端](#MacOS)
+- [Mac 客户端](#MacOS客户端)
 
-- [iOS 客户端](#iOS)
+- [iOS 客户端](#iOS客户端)
 
 - [节点推荐（支持全部代理工具）](#节点推荐)
 
----
-
-## 我的项目 {#my-project}
-
-这是项目的介绍。
-
----
-
-## 安装指南 {#installation-guide}
-
-这里是安装指南的详细信息。
-
-
 <br><br><br>
 <br><br><br>
-## Android
+## Android客户端
 | 名称     | 描述       | 镜像安装       |
 |----------|------------|------------|
 | 功能1   | 描述2 描述2 描述2     | [GitHub](https://github.com)     |
 | 功能2   | 描述2     | 描述2     |
 
 <br><br><br>
-## Windows
+## Windows客户端
 | 名称     | 描述       | 镜像安装       |
 |----------|------------|------------|
 | 功能1   | 描述2     | [GitHub](https://github.com)     |
 | 功能2   | 描述2     | 描述2     |
 
 <br><br><br>
-## MacOS
+## MacOS客户端
 | 名称     | 描述       | 镜像安装       |
 |----------|------------|------------|
 | 功能1   | 描述2     | [GitHub](https://github.com)     |
 | 功能2   | 描述2     | 描述2     |
 
 <br><br><br>
-## iOS
+## iOS客户端
 | 名称     | 描述       | 镜像安装       |
 |----------|------------|------------|
 | 功能1   | 描述2     | [GitHub](https://github.com)     |
