@@ -1,15 +1,15 @@
 # clash官方镜像下载（终结篇）
 > ****最后更新时间：**** 2024年10月31日
+![Android](https://img.shields.io/badge/安卓-Android-brightgreen)
+![Windows](https://img.shields.io/badge/微软-Windows-blue)
+![MacOS](https://img.shields.io/badge/OS-MacOS-lightgrey)
+![iOS](https://img.shields.io/badge/苹果-iOS-red)
+
 - [Android 客户端](#Android)
 - [Windows 客户端](#Windows)
 - [Mac 客户端](#MacOS)
 - [iOS 客户端](#iOS)
 - [节点推荐（支持全部代理工具）](#节点推荐)
-
-![Android](https://img.shields.io/badge/安卓-Android-brightgreen)
-![Windows](https://img.shields.io/badge/微软-Windows-blue)
-![MacOS](https://img.shields.io/badge/OS-MacOS-lightgrey)
-![iOS](https://img.shields.io/badge/苹果-iOS-red)
 
 ## Android
 | 名称     | 描述       | 镜像安装       |
