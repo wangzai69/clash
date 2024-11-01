@@ -29,30 +29,36 @@
 ## Android代理工具
 | 名称     | 描述       | 下载       |
 |----------|------------|------------|
-| Clash                    | 作者已删库                | [备份下载](https://github.com) |
-| Clash Meta               | 描述2                     | [镜像下载](https://github.com) |
+| FlClash                  |  v8a                     | [镜像下载](https://github.com/chen08209/FlClash/releases/download/v0.8.66/FlClash-0.8.66-android-arm64-v8a.apk) |
+| FlClash                  |  v7a                     | [镜像下载](https://github.com/chen08209/FlClash/releases/download/v0.8.66/FlClash-0.8.66-android-armeabi-v7a.apk) |
+| FlClash                  |  64                      | [镜像下载](https://github.com/chen08209/FlClash/releases/download/v0.8.66/FlClash-0.8.66-android-x86_64.apk) |
+| Clash                    | 作者已删库                | [备份下载](https://dl.haojichang.com/apps/clash_for_android/cfa-2.5.12-premium-universal-release.apk) |
+| Clash Meta               | 描述2                    | [镜像下载](https://github.com) |
 
 <br><br><br>
 ## Windows代理工具
 | 名称     | 描述       | 安装       |
 |----------|------------|------------|
-| Clash                  | 作者已删库  arm64架构                | [备份下载](https://dl.haojichang.com/apps/clash_for_windows/Clash.for.Windows.Setup.0.20.39.arm64.exe) |
+| Clash                  | 作者已删库  64位                | [备份下载](https://dl.haojichang.com/apps/clash_for_windows/Clash.for.Windows.Setup.0.20.39.arm64.exe) |
 | Clash                  | 作者已删库  32位                | [备份下载](https://dl.haojichang.com/apps/clash_for_windows/Clash.for.Windows.Setup.0.20.39.ia32.exe) |
 | Clash Verge            | 64位                      | [镜像下载](https://github.com/zzzgydi/clash-verge/releases/download/v1.3.8/Clash.Verge_1.3.8_x64-setup.exe) |
 | Clash Verge Rev        | 64位                       | [镜像下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_x64-setup.exe) |
 | Clash Verge Rev        | 32位                       | [镜像下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_x86-setup.exe) |
 | Clash Verge Rev        | arm64架构                  | [镜像下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_arm64-setup.exe) |
+| FlClash   | arm64架构      | [镜像下载](https://github.com/chen08209/FlClash/releases/download/v0.8.66/FlClash-0.8.66-windows-amd64-setup.exe) |
 
 <br><br><br>
 ## MacOS代理工具
 | 代理工具名称     | 描述       | 安装       |
 |----------|------------|------------|
-| sing-box VT          | Mac App Store           | [镜像下载](https://apps.apple.com/app/sing-box-vt/id6673731168) |
-| ClashX pro           | 作者已删库          | [备份下载](https://1968040371-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-McII1PI7zEfc9cNdkcd%2Fuploads%2F2Kqh94E1yyNTreiTlsxi%2FClashX.dmg.zip?alt=media&token=461ddecc-49fb-474f-a8ab-ecf71337d26f) |
+| Clash X               | 作者已删库               | [备份下载](https://dl.haojichang.com/apps/ClashX/ClashX.dmg)
+| Clash X pro           | 作者已删库               | [备份下载](https://1968040371-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-McII1PI7zEfc9cNdkcd%2Fuploads%2F2Kqh94E1yyNTreiTlsxi%2FClashX.dmg.zip?alt=media&token=461ddecc-49fb-474f-a8ab-ecf71337d26f) |
 | Clash Verge          | MacOS intel芯片          | [镜像下载](https://github.com/zzzgydi/clash-verge/releases/download/v1.3.8/Clash.Verge_1.3.8_x64.dmg) |
 | Clash Verge          | MacOS apple M芯片        | [镜像下载](https://github.com/zzzgydi/clash-verge/releases/download/v1.3.8/Clash.Verge_1.3.8_aarch64.dmg) |
 | Clash Verge Rev      | MacOS intel芯片          | [镜像下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_x64.dmg) |
 | Clash Verge Rev      | MacOS apple M芯片        | [镜像下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_aarch64.dmg) |
+| sing-box VT          | Mac App Store           | [镜像下载](https://apps.apple.com/app/sing-box-vt/id6673731168) |
+| FlClash   | rpm      | [镜像下载](https://github.com/chen08209/FlClash/releases/download/v0.8.66/FlClash-0.8.66-macos-amd64.dmg) |
 
 <br><br><br>
 ## iOS代理工具
@@ -70,6 +76,9 @@
 | Clash Verge Rev   | 32位           | [镜像下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/clash-verge_1.7.7_i386.deb) |
 | Clash Verge Rev   | arm64架构      | [镜像下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/clash-verge_1.7.7_arm64.deb) |
 | Clash Verge Rev   | armv7架构      | [镜像下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/clash-verge_1.7.7_armhf.deb) |
+| FlClash   | AppImage   | [镜像下载](https://github.com/chen08209/FlClash/releases/download/v0.8.66/FlClash-0.8.66-linux-amd64.AppImage) |
+| FlClash   | deb      | [镜像下载](https://github.com/chen08209/FlClash/releases/download/v0.8.66/FlClash-0.8.66-linux-amd64.deb) |
+| FlClash   | rpm      | [镜像下载](https://github.com/chen08209/FlClash/releases/download/v0.8.66/FlClash-0.8.66-linux-amd64.rpm) |
 
 <br><br><br>
 ## 节点推荐
