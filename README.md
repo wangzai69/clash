@@ -20,10 +20,10 @@
 <br><br><br>
 <br><br><br>
 ## Android客户端
-| 名称     | 描述       | 镜像安装       |
+| 名称     | 描述       | 镜像下载       |
 |----------|------------|------------|
-| Clash for Android | 描述2 描述2 描述2     | [GitHub](https://github.com)     |
-| Clash Meta | 描述2     | 描述2     |
+| Clash for Android | 描述2 描述2 描述2     | [镜像下载](https://github.com) |
+| Clash Meta | 描述2     | 描述2     | [镜像下载](https://github.com) |
 
 <br><br><br>
 ## Windows客户端
