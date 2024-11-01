@@ -31,7 +31,8 @@
 |----------|------------|------------|
 | Clash                  | 作者已删库                  | [备份下载](https://github.com) |
 | Clash Verge            | 描述2                       | [镜像下载](https://github.com) |
-| Clash Verge Rev        | 描述2                       | [镜像下载](https://github.com) |
+| Clash Verge Rev        | 64位                       | [镜像下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/alpha/Clash.Verge_2.0.0-rc.5_x64-setup.exe) |
+| Clash Verge Rev        | arm64架构                       | [镜像下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/alpha/Clash.Verge_2.0.0-rc.5_arm64-setup.exe) |
 
 <br><br><br>
 ## MacOS客户端
