@@ -3,7 +3,7 @@
 
 - [Android 客户端](#Android)
 - [Windows 客户端](#Windows)
-- [Mac OS 客户端](#MacOS)
+- [Mac 客户端](#MacOS)
 - [iOS 客户端](#iOS)
 - [节点推荐（支持全部代理工具）](#节点推荐)
 
