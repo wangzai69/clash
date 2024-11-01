@@ -22,30 +22,30 @@
 ## Android客户端
 | 名称     | 描述       | 镜像下载       |
 |----------|------------|------------|
-| Clash for Android | 描述2 描述2 描述2     | [镜像下载](https://github.com) |
+| Clash | 描述2 描述2 描述2     | [镜像下载](https://github.com) |
 | Clash Meta | 描述2     | 描述2     | [镜像下载](https://github.com) |
 
 <br><br><br>
 ## Windows客户端
 | 名称     | 描述       | 镜像安装       |
 |----------|------------|------------|
-| Clash for Windows   | 描述2     | [GitHub](https://github.com)     |
-| Clash Verge   | 描述2     | 描述2     |
-| Clash Verge Rev   | 描述2     | 描述2     |
+| Clash | 描述2     | [镜像下载](https://github.com) |
+| Clash Verge   | 描述2     | [镜像下载](https://github.com) |
+| Clash Verge Rev   | 描述2     | [镜像下载](https://github.com) |
 
 <br><br><br>
 ## MacOS客户端
 | 名称     | 描述       | 镜像安装       |
 |----------|------------|------------|
-| 功能1   | 描述2     | [GitHub](https://github.com)     |
-| 功能2   | 描述2     | 描述2     |
+| 功能1   | 描述2     | [镜像下载](https://github.com) |
+| 功能2   | 描述2     | [镜像下载](https://github.com) |
 
 <br><br><br>
 ## iOS客户端
 | 名称     | 描述       | 镜像安装       |
 |----------|------------|------------|
-| 功能1   | 描述2     | [GitHub](https://github.com)     |
-| 功能2   | 描述2     | 描述2     |
+| 功能1   | 描述2     | [镜像下载](https://github.com) |
+| 功能2   | 描述2     | [镜像下载](https://github.com) |
 
 <br><br><br>
 ## 节点推荐
