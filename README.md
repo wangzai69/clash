@@ -22,14 +22,14 @@
 ## Android客户端
 | 名称     | 描述       | 镜像下载       |
 |----------|------------|------------|
-| Clash | 描述2 描述2 描述2     | [镜像下载](https://github.com) |
+| Clash | 作者已删库 | [备份下载](https://github.com) |
 | Clash Meta | 描述2     | 描述2     | [镜像下载](https://github.com) |
 
 <br><br><br>
 ## Windows客户端
 | 名称     | 描述       | 镜像安装       |
 |----------|------------|------------|
-| Clash | 描述2     | [镜像下载](https://github.com) |
+| Clash | 作者已删库     | [备份下载](https://github.com) |
 | Clash Verge   | 描述2     | [镜像下载](https://github.com) |
 | Clash Verge Rev   | 描述2     | [镜像下载](https://github.com) |
 
