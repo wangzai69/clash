@@ -36,9 +36,6 @@
 | v2rayNG   | v7a       | [镜像下载](https://github.com/2dust/v2rayNG/releases/download/1.9.9/v2rayNG_1.9.9_armeabi-v7a.apk) |
 | NekoBox   | v8a   | [镜像下载](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/download/1.3.2/NB4A-1.3.2-arm64-v8a.apk) |
 | NekoBox   | v7a       | [镜像下载](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/download/1.3.2/NB4A-1.3.2-armeabi-v7a.apk) |
-| sing-box   | v8a   | [镜像下载](https://github.com/SagerNet/sing-box/releases/download/v1.10.1/SFA-1.10.1-arm64-v8a.apk) |
-| sing-box   | v7a       | [镜像下载](https://github.com/SagerNet/sing-box/releases/download/v1.10.1/SFA-1.10.1-armeabi-v7a.apk) |
-| sing-box   | 通用       | [镜像下载](https://github.com/SagerNet/sing-box/releases/download/v1.10.1/SFA-1.10.1-foss-universal.apk) |
 | Surfboard   | v8a   | [镜像下载](https://github.com/getsurfboard/surfboard/releases/download/tv-1.0.2/tv-arm64-v8a-release.apk) |
 | Surfboard   | v7a       | [镜像下载](https://github.com/getsurfboard/surfboard/releases/download/tv-1.0.2/tv-armeabi-v7a-release.apk) |
 | FlClash      |  v8a             | [镜像下载](https://github.com/chen08209/FlClash/releases/download/v0.8.66/FlClash-0.8.66-android-arm64-v8a.apk) |
@@ -54,8 +51,6 @@
 | Clash Verge Rev        | 64位                       | [镜像下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_x64-setup.exe) |
 | Clash Verge Rev        | 32位                       | [镜像下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_x86-setup.exe) |
 | Clash Verge Rev        | arm64                  | [镜像下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_arm64-setup.exe) |
-| sing-box   | amd64      | [镜像下载](https://github.com/SagerNet/sing-box/releases/download/v1.10.1/sing-box-1.10.1-windows-amd64.zip) |
-| sing-box   | arm64      | [镜像下载](https://github.com/SagerNet/sing-box/releases/download/v1.10.1/sing-box-1.10.1-windows-arm64.zip) |
 | FlClash   | arm64      | [镜像下载](https://github.com/chen08209/FlClash/releases/download/v0.8.66/FlClash-0.8.66-windows-amd64-setup.exe) |
 | v2rayN   | 64位      | [镜像下载](https://github.com/2dust/v2rayN/releases/download/6.60/v2rayN-arm64.zip) |
 | v2rayN   | 32位      | [镜像下载](https://github.com/2dust/v2rayN/releases/download/6.60/v2rayN-32.zip) |
