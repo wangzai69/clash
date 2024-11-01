@@ -17,6 +17,10 @@
 
 - [节点推荐（支持全部代理工具）](#节点推荐)
 
+- ![徽章](https://img.shields.io/badge/项目-我的项目-brightgreen) [查看项目](#my-project)
+- ![徽章](https://img.shields.io/badge/安装-安装指南-blue) [安装指南](#installation-guide)
+
+
 <br><br><br>
 <br><br><br>
 ## Android客户端
