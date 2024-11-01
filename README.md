@@ -29,16 +29,16 @@
 ## Windows客户端
 | 名称     | 描述       | 镜像安装       |
 |----------|------------|------------|
-| Clash | 作者已删库     | [备份下载](https://github.com) |
-| Clash Verge   | 描述2     | [镜像下载](https://github.com) |
-| Clash Verge Rev   | 描述2     | [镜像下载](https://github.com) |
+| Clash                  | 作者已删库                  | [备份下载](https://github.com) |
+| Clash Verge            | 描述2                       | [镜像下载](https://github.com) |
+| Clash Verge Rev        | 描述2                       | [镜像下载](https://github.com) |
 
 <br><br><br>
 ## MacOS客户端
 | 名称     | 描述       | 镜像安装       |
 |----------|------------|------------|
-| 功能1   | 描述2     | [镜像下载](https://github.com) |
-| 功能2   | 描述2     | [镜像下载](https://github.com) |
+| Clash Verge Rev   | MacOS intel芯片 | [镜像下载](https://github.com) |
+| Clash Verge Rev   | MacOS apple M芯片    | [镜像下载](https://github.com) |
 
 <br><br><br>
 ## iOS客户端
