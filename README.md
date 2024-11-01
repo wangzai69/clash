@@ -31,15 +31,16 @@
 |----------|------------|------------|
 | Clash                  | 作者已删库                  | [备份下载](https://github.com) |
 | Clash Verge            | 描述2                       | [镜像下载](https://github.com) |
-| Clash Verge Rev        | 64位                       | [镜像下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/alpha/Clash.Verge_2.0.0-rc.5_x64-setup.exe) |
-| Clash Verge Rev        | arm64架构                       | [镜像下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/alpha/Clash.Verge_2.0.0-rc.5_arm64-setup.exe) |
+| Clash Verge Rev        | 64位                       | [镜像下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_x64-setup.exe) |
+| Clash Verge Rev        | 32位                       | [镜像下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_x86-setup.exe) |
+| Clash Verge Rev        | arm64架构                       | [镜像下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_arm64-setup.exe) |
 
 <br><br><br>
 ## MacOS客户端
 | 代理工具名称     | 描述       | 镜像安装       |
 |----------|------------|------------|
-| Clash Verge Rev      | MacOS intel芯片          | [镜像下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/alpha/Clash.Verge_2.0.0-rc.5_x64.dmg) |
-| Clash Verge Rev      | MacOS apple M芯片        | [镜像下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/alpha/Clash.Verge_2.0.0-rc.5_aarch64.dmg) |
+| Clash Verge Rev      | MacOS intel芯片          | [镜像下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_x64.dmg) |
+| Clash Verge Rev      | MacOS apple M芯片        | [镜像下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_aarch64.dmg) |
 
 <br><br><br>
 ## iOS客户端
