@@ -80,10 +80,9 @@
 ## iOS代理工具
 | 名称     | 描述       | 安装       |
 |----------|------------|------------|
-
-| Quantumult X   | Mac App Store非大陆      | [镜像下载](https://apps.apple.com/us/app/quantumult-x/id1443988620) |
-| Shadowrocket   | Mac App Store非大陆      | [镜像下载](https://apps.apple.com/us/app/shadowrocket/id932747118) |
-| Stash   | Mac App Store非大陆      | [镜像下载](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349) |
+| Quantumult X   | Mac App Store非大陆id      | [镜像下载](https://apps.apple.com/us/app/quantumult-x/id1443988620) |
+| Shadowrocket   | Mac App Store非大陆id      | [镜像下载](https://apps.apple.com/us/app/shadowrocket/id932747118) |
+| Stash   | Mac App Store非大陆id      | [镜像下载](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349) |
 
 <br><br><br>
 ## Linux代理工具
