@@ -57,6 +57,8 @@
 | sing-box   | amd64      | [镜像下载](https://github.com/SagerNet/sing-box/releases/download/v1.10.1/sing-box-1.10.1-windows-amd64.zip) |
 | sing-box   | arm64      | [镜像下载](https://github.com/SagerNet/sing-box/releases/download/v1.10.1/sing-box-1.10.1-windows-arm64.zip) |
 | FlClash   | arm64      | [镜像下载](https://github.com/chen08209/FlClash/releases/download/v0.8.66/FlClash-0.8.66-windows-amd64-setup.exe) |
+| v2rayN   | 64位      | [镜像下载](https://github.com/2dust/v2rayN/releases/download/6.60/v2rayN-arm64.zip) |
+| v2rayN   | 32位      | [镜像下载](https://github.com/2dust/v2rayN/releases/download/6.60/v2rayN-32.zip) |
 
 <br><br><br>
 ## MacOS代理工具
@@ -71,13 +73,17 @@
 | sing-box VT          | Mac App Store非大陆           | [镜像下载](https://apps.apple.com/app/sing-box-vt/id6673731168) |
 | V2rayU   | MacOS apple M芯片      | [镜像下载](https://github.com/yanue/V2rayU/releases/download/v4.2.5/V2rayU-arm64.dmg) |
 | V2rayU   | MacOS intel芯片      | [镜像下载](https://github.com/yanue/V2rayU/releases/download/v4.2.5/V2rayU-64.dmg) |
+| Quantumult X   | Mac App Store非大陆      | [镜像下载](https://apps.apple.com/us/app/quantumult-x/id1443988620) |
+| Shadowrocket   | Mac App Store非大陆      | [镜像下载](https://apps.apple.com/us/app/shadowrocket/id932747118) |
 
 <br><br><br>
 ## iOS代理工具
 | 名称     | 描述       | 安装       |
 |----------|------------|------------|
-| 功能1   | 描述2     | [镜像下载](https://github.com) |
-| 功能2   | 描述2     | [镜像下载](https://github.com) |
+
+| Quantumult X   | Mac App Store非大陆      | [镜像下载](https://apps.apple.com/us/app/quantumult-x/id1443988620) |
+| Shadowrocket   | Mac App Store非大陆      | [镜像下载](https://apps.apple.com/us/app/shadowrocket/id932747118) |
+| Stash   | Mac App Store非大陆      | [镜像下载](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349) |
 
 <br><br><br>
 ## Linux代理工具
