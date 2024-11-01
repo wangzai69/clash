@@ -4,6 +4,7 @@
 ![Windows](https://img.shields.io/badge/微软-Windows-blue)
 ![MacOS](https://img.shields.io/badge/OS-MacOS-lightgrey)
 ![iOS](https://img.shields.io/badge/苹果-iOS-red)
+![Linux](https://img.shields.io/badge/Linux-Linux-red)
 > ****最后更新时间：**** 2024年10月31日
 
 <br><br><br>
