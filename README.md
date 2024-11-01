@@ -1,4 +1,4 @@
-# clash中文镜像下载（终结篇）
+# clash官方镜像下载（终结篇）
 ## 代理工具大全
 
 - [Android 系列](#Android)
