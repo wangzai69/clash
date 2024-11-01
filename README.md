@@ -55,8 +55,10 @@
 ## Linux客户端
 | 名称     | 描述       | 安装       |
 |----------|------------|------------|
-| 功能1   | 描述2     | [镜像下载](https://github.com) |
-| 功能2   | 描述2     | [镜像下载](https://github.com) |
+| Clash Verge Rev   | 64位           | [镜像下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/clash-verge_1.7.7_amd64.deb) |
+| Clash Verge Rev   | 32位           | [镜像下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/clash-verge_1.7.7_i386.deb) |
+| Clash Verge Rev   | arm64架构      | [镜像下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/clash-verge_1.7.7_arm64.deb) |
+| Clash Verge Rev   | armv7架构      | [镜像下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/clash-verge_1.7.7_armhf.deb) |
 
 <br><br><br>
 ## 节点推荐
