@@ -53,6 +53,7 @@
 | Clash Verge Rev        | arm64                  | [镜像下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_arm64-setup.exe) |
 | FlClash   | arm64      | [镜像下载](https://github.com/chen08209/FlClash/releases/download/v0.8.66/FlClash-0.8.66-windows-amd64-setup.exe) |
 | v2rayN   | arm64      | [镜像下载](https://github.com/2dust/v2rayN/releases/download/6.60/v2rayN-arm64.zip) |
+| v2rayN   | 64位      | [镜像下载](https://github.com/2dust/v2rayN/releases/download/6.60/v2rayN-With-Core.zip) |
 | v2rayN   | 32位      | [镜像下载](https://github.com/2dust/v2rayN/releases/download/6.60/v2rayN-32.zip) |
 
 <br><br><br>
