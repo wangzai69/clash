@@ -1,10 +1,10 @@
 # clash官方镜像下载（终结篇）
 ## 代理工具大全
 
-- [Android 系列](#Android)
-- [Windows 系列](#Windows)
-- [Mac OS 系列](#MacOS)
-- [iOS 系列](#iOS)
+- [Android 客户端](#Android)
+- [Windows 客户端](#Windows)
+- [Mac OS 客户端](#MacOS)
+- [iOS 客户端](#iOS)
 - [节点推荐（支持全部代理工具）](#节点推荐)
 
 ![Android](https://img.shields.io/badge/安卓-Android-brightgreen)
