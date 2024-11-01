@@ -22,8 +22,8 @@
 ## Android客户端
 | 名称     | 描述       | 镜像安装       |
 |----------|------------|------------|
-| 功能1   | 描述2 描述2 描述2     | [GitHub](https://github.com)     |
-| 功能2   | 描述2     | 描述2     |
+| Clash for Android | 描述2 描述2 描述2     | [GitHub](https://github.com)     |
+| Clash Meta | 描述2     | 描述2     |
 
 <br><br><br>
 ## Windows客户端
