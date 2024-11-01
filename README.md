@@ -29,8 +29,9 @@
 ## Windows客户端
 | 名称     | 描述       | 镜像安装       |
 |----------|------------|------------|
-| 功能1   | 描述2     | [GitHub](https://github.com)     |
-| 功能2   | 描述2     | 描述2     |
+| Clash for Windows   | 描述2     | [GitHub](https://github.com)     |
+| Clash Verge   | 描述2     | 描述2     |
+| Clash Verge Rev   | 描述2     | 描述2     |
 
 <br><br><br>
 ## MacOS客户端
