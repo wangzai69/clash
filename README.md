@@ -28,12 +28,12 @@
 <br><br><br>
 ## Android代理工具
 | 名称     | 描述       | 作者 | 下载       |
-|----------|------------|------------|
-| Clash        | 作者已删库                | [备份下载](https://dl.haojichang.com/apps/clash_for_android/cfa-2.5.12-premium-universal-release.apk) |
-| Clash Meta   | v8a                    | [镜像下载](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.1/cmfa-2.11.1-meta-arm64-v8a-release.apk) |
-| Clash Meta   | v7a                    | [镜像下载](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.1/cmfa-2.11.1-meta-armeabi-v7a-release.apk) |
-| FlClash      |  v8a                     | [镜像下载](https://github.com/chen08209/FlClash/releases/download/v0.8.66/FlClash-0.8.66-android-arm64-v8a.apk) |
-| FlClash      |  v7a                     | [镜像下载](https://github.com/chen08209/FlClash/releases/download/v0.8.66/FlClash-0.8.66-android-armeabi-v7a.apk) |
+|----------|------------|------------|------------|
+| Clash        | 通用   |      已删库       | [备份下载](https://dl.haojichang.com/apps/clash_for_android/cfa-2.5.12-premium-universal-release.apk) |
+| Clash Meta   | v8a    |     [作者库](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/tag/v2.11.1 )     | [镜像下载](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.1/cmfa-2.11.1-meta-arm64-v8a-release.apk) |
+| Clash Meta   | v7a   |     [作者库](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/tag/v2.11.1 )      | [镜像下载](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.1/cmfa-2.11.1-meta-armeabi-v7a-release.apk) |
+| FlClash      |  v8a   |             | [镜像下载](https://github.com/chen08209/FlClash/releases/download/v0.8.66/FlClash-0.8.66-android-arm64-v8a.apk) |
+| FlClash      |  v7a    |             | [镜像下载](https://github.com/chen08209/FlClash/releases/download/v0.8.66/FlClash-0.8.66-android-armeabi-v7a.apk) |
 
 <br><br><br>
 ## Windows代理工具
