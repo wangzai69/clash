@@ -37,7 +37,7 @@
 | 名称     | 描述       | 安装       |
 |----------|------------|------------|
 | Clash                  | 作者已删库                  | [备份下载](https://github.com) |
-| Clash Verge            | 描述2                       | [镜像下载](https://github.com) |
+| Clash Verge            | 64位                      | [镜像下载](https://github.com/zzzgydi/clash-verge/releases/download/v1.3.8/Clash.Verge_1.3.8_x64-setup.exe) |
 | Clash Verge Rev        | 64位                       | [镜像下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_x64-setup.exe) |
 | Clash Verge Rev        | 32位                       | [镜像下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_x86-setup.exe) |
 | Clash Verge Rev        | arm64架构                       | [镜像下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_arm64-setup.exe) |
@@ -46,6 +46,8 @@
 ## MacOS代理工具
 | 代理工具名称     | 描述       | 安装       |
 |----------|------------|------------|
+| Clash Verge          | MacOS intel芯片          | [镜像下载](https://github.com/zzzgydi/clash-verge/releases/download/v1.3.8/Clash.Verge_1.3.8_x64.dmg) |
+| Clash Verge          | MacOS apple M芯片        | [镜像下载](https://github.com/zzzgydi/clash-verge/releases/download/v1.3.8/Clash.Verge_1.3.8_aarch64.dmg) |
 | Clash Verge Rev      | MacOS intel芯片          | [镜像下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_x64.dmg) |
 | Clash Verge Rev      | MacOS apple M芯片        | [镜像下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_aarch64.dmg) |
 
@@ -60,6 +62,7 @@
 ## Linux代理工具
 | 名称     | 描述       | 安装       |
 |----------|------------|------------|
+| Clash Verge       | 64位           | [镜像下载](https://github.com/zzzgydi/clash-verge/releases/download/v1.3.8/clash-verge_1.3.8_amd64.deb) |
 | Clash Verge Rev   | 64位           | [镜像下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/clash-verge_1.7.7_amd64.deb) |
 | Clash Verge Rev   | 32位           | [镜像下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/clash-verge_1.7.7_i386.deb) |
 | Clash Verge Rev   | arm64架构      | [镜像下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/clash-verge_1.7.7_arm64.deb) |
