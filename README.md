@@ -40,12 +40,14 @@
 | Clash Verge            | 64位                      | [镜像下载](https://github.com/zzzgydi/clash-verge/releases/download/v1.3.8/Clash.Verge_1.3.8_x64-setup.exe) |
 | Clash Verge Rev        | 64位                       | [镜像下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_x64-setup.exe) |
 | Clash Verge Rev        | 32位                       | [镜像下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_x86-setup.exe) |
-| Clash Verge Rev        | arm64架构                       | [镜像下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_arm64-setup.exe) |
+| Clash Verge Rev        | arm64架构                  | [镜像下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_arm64-setup.exe) |
 
 <br><br><br>
 ## MacOS代理工具
 | 代理工具名称     | 描述       | 安装       |
 |----------|------------|------------|
+| sing-box VT          | Mac App Store           | [镜像下载](https://apps.apple.com/app/sing-box-vt/id6673731168) |
+| ClashX pro           | 作者已删库          | [备份下载](https://1968040371-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-McII1PI7zEfc9cNdkcd%2Fuploads%2F2Kqh94E1yyNTreiTlsxi%2FClashX.dmg.zip?alt=media&token=461ddecc-49fb-474f-a8ab-ecf71337d26f) |
 | Clash Verge          | MacOS intel芯片          | [镜像下载](https://github.com/zzzgydi/clash-verge/releases/download/v1.3.8/Clash.Verge_1.3.8_x64.dmg) |
 | Clash Verge          | MacOS apple M芯片        | [镜像下载](https://github.com/zzzgydi/clash-verge/releases/download/v1.3.8/Clash.Verge_1.3.8_aarch64.dmg) |
 | Clash Verge Rev      | MacOS intel芯片          | [镜像下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_x64.dmg) |
