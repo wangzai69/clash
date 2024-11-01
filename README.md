@@ -32,6 +32,15 @@
 | Clash        | 作者已删库        | [备份下载](https://dl.haojichang.com/apps/clash_for_android/cfa-2.5.12-premium-universal-release.apk) |
 | Clash Meta   | v8a   | [镜像下载](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.1/cmfa-2.11.1-meta-arm64-v8a-release.apk) |
 | Clash Meta   | v7a       | [镜像下载](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.1/cmfa-2.11.1-meta-armeabi-v7a-release.apk) |
+| v2rayNG   | v8a   | [镜像下载](https://github.com/2dust/v2rayNG/releases/download/1.9.9/v2rayNG_1.9.9_arm64-v8a.apk) |
+| v2rayNG   | v7a       | [镜像下载](https://github.com/2dust/v2rayNG/releases/download/1.9.9/v2rayNG_1.9.9_armeabi-v7a.apk) |
+| NekoBox   | v8a   | [镜像下载](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/download/1.3.2/NB4A-1.3.2-arm64-v8a.apk) |
+| NekoBox   | v7a       | [镜像下载](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/download/1.3.2/NB4A-1.3.2-armeabi-v7a.apk) |
+| sing-box   | v8a   | [镜像下载](https://github.com/SagerNet/sing-box/releases/download/v1.10.1/SFA-1.10.1-arm64-v8a.apk) |
+| sing-box   | v7a       | [镜像下载](https://github.com/SagerNet/sing-box/releases/download/v1.10.1/SFA-1.10.1-armeabi-v7a.apk) |
+| sing-box   | 通用       | [镜像下载](https://github.com/SagerNet/sing-box/releases/download/v1.10.1/SFA-1.10.1-foss-universal.apk) |
+| Surfboard   | v8a   | [镜像下载](https://github.com/getsurfboard/surfboard/releases/download/tv-1.0.2/tv-arm64-v8a-release.apk) |
+| Surfboard   | v7a       | [镜像下载](https://github.com/getsurfboard/surfboard/releases/download/tv-1.0.2/tv-armeabi-v7a-release.apk) |
 | FlClash      |  v8a             | [镜像下载](https://github.com/chen08209/FlClash/releases/download/v0.8.66/FlClash-0.8.66-android-arm64-v8a.apk) |
 | FlClash      |  v7a            | [镜像下载](https://github.com/chen08209/FlClash/releases/download/v0.8.66/FlClash-0.8.66-android-armeabi-v7a.apk) |
 
@@ -44,8 +53,10 @@
 | Clash Verge            | 64位                      | [镜像下载](https://github.com/zzzgydi/clash-verge/releases/download/v1.3.8/Clash.Verge_1.3.8_x64-setup.exe) |
 | Clash Verge Rev        | 64位                       | [镜像下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_x64-setup.exe) |
 | Clash Verge Rev        | 32位                       | [镜像下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_x86-setup.exe) |
-| Clash Verge Rev        | arm64架构                  | [镜像下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_arm64-setup.exe) |
-| FlClash   | arm64架构      | [镜像下载](https://github.com/chen08209/FlClash/releases/download/v0.8.66/FlClash-0.8.66-windows-amd64-setup.exe) |
+| Clash Verge Rev        | arm64                  | [镜像下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_arm64-setup.exe) |
+| sing-box   | amd64      | [镜像下载](https://github.com/SagerNet/sing-box/releases/download/v1.10.1/sing-box-1.10.1-windows-amd64.zip) |
+| sing-box   | arm64      | [镜像下载](https://github.com/SagerNet/sing-box/releases/download/v1.10.1/sing-box-1.10.1-windows-arm64.zip) |
+| FlClash   | arm64      | [镜像下载](https://github.com/chen08209/FlClash/releases/download/v0.8.66/FlClash-0.8.66-windows-amd64-setup.exe) |
 
 <br><br><br>
 ## MacOS代理工具
@@ -57,8 +68,9 @@
 | Clash Verge          | MacOS apple M芯片        | [镜像下载](https://github.com/zzzgydi/clash-verge/releases/download/v1.3.8/Clash.Verge_1.3.8_aarch64.dmg) |
 | Clash Verge Rev      | MacOS intel芯片          | [镜像下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_x64.dmg) |
 | Clash Verge Rev      | MacOS apple M芯片        | [镜像下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_aarch64.dmg) |
-| sing-box VT          | Mac App Store           | [镜像下载](https://apps.apple.com/app/sing-box-vt/id6673731168) |
-| FlClash   | rpm      | [镜像下载](https://github.com/chen08209/FlClash/releases/download/v0.8.66/FlClash-0.8.66-macos-amd64.dmg) |
+| sing-box VT          | Mac App Store非大陆           | [镜像下载](https://apps.apple.com/app/sing-box-vt/id6673731168) |
+| V2rayU   | MacOS apple M芯片      | [镜像下载](https://github.com/yanue/V2rayU/releases/download/v4.2.5/V2rayU-arm64.dmg) |
+| V2rayU   | MacOS intel芯片      | [镜像下载](https://github.com/yanue/V2rayU/releases/download/v4.2.5/V2rayU-64.dmg) |
 
 <br><br><br>
 ## iOS代理工具
