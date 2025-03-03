@@ -15,7 +15,7 @@ ___
 <br>
 
 ### 🚀 专题外链 | Topic link  
-### [🚀 clash官方镜像下载（终结篇）](https://github.com/wangzai69/ClashX)
+### [ clash官方镜像下载（终结篇）](https://github.com/wangzai69/ClashX)
 
 <br>
 
@@ -24,10 +24,13 @@ ___
 <br>
 
 ### 📂 本页目录 | Table of Contents  
-- [🚀 专题分享 | Featured Topics](#-专题分享--Featured-Topics)  
-- [📖 精选节点 | Featured nodes](#-精选节点--Featured-nodes)  
-- [📌 关于我 | About Me ](#-关于我--about-me)  
-- [📬 联系方式 | Contact](#-联系方式--contact)  
+- [ Android 代理工具](#Android-代理工具)  
+- [ Windows 代理工具](#Windows-代理工具)
+- [ MacOS 代理工具](#MacOS-代理工具)
+- [ iOS 代理工具](#iOS-代理工具)
+- [ Linux 代理工具](#Linux-代理工具)
+- [ 关于我 | About Me ](#-关于我--about-me)  
+- [ 联系方式 | Contact](#-联系方式--contact)  
 
 <br>
 
@@ -35,7 +38,7 @@ ___
 
 <br>
 
-## Android代理工具
+## Android 代理工具
 | 名称     | 描述       | 下载       |
 |----------|------------|------------|
 | Clash        | 作者已删库        | [备份下载](https://dl.haojichang.com/apps/clash_for_android/cfa-2.5.12-premium-universal-release.apk) |
@@ -51,7 +54,7 @@ ___
 | FlClash      |  v7a            | [镜像下载](https://github.com/chen08209/FlClash/releases/download/v0.8.66/FlClash-0.8.66-android-armeabi-v7a.apk) |
 
 <br><br><br>
-## Windows代理工具
+## Windows 代理工具
 | 名称     | 描述       | 安装       |
 |----------|------------|------------|
 | Clash                  | 作者已删库  64位                | [备份下载](https://dl.haojichang.com/apps/clash_for_windows/Clash.for.Windows.Setup.0.20.39.arm64.exe) |
@@ -66,7 +69,7 @@ ___
 | v2rayN   | 32位      | [镜像下载](https://github.com/2dust/v2rayN/releases/download/6.60/v2rayN-32.zip) |
 
 <br><br><br>
-## MacOS代理工具
+## MacOS 代理工具
 | 代理工具名称     | 描述       | 安装       |
 |----------|------------|------------|
 | Clash X               | 作者已删库               | [备份下载](https://dl.haojichang.com/apps/ClashX/ClashX.dmg)
@@ -82,7 +85,7 @@ ___
 | Shadowrocket   | Mac App Store非大陆      | [镜像下载](https://apps.apple.com/us/app/shadowrocket/id932747118) |
 
 <br><br><br>
-## iOS代理工具
+## iOS 代理工具
 | 名称     | 描述       | 安装       |
 |----------|------------|------------|
 | Quantumult X   | Mac App Store非大陆id      | [镜像下载](https://apps.apple.com/us/app/quantumult-x/id1443988620) |
@@ -90,7 +93,7 @@ ___
 | Stash   | Mac App Store非大陆id      | [镜像下载](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349) |
 
 <br><br><br>
-## Linux代理工具
+## Linux 代理工具
 | 名称     | 描述       | 安装       |
 |----------|------------|------------|
 | Clash Verge       | 64位           | [镜像下载](https://github.com/zzzgydi/clash-verge/releases/download/v1.3.8/clash-verge_1.3.8_amd64.deb) |
