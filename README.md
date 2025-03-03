@@ -111,7 +111,7 @@ ___
 
 ### 📖 精选节点 | Featured nodes
 MSYLL是一家成立于2020年稳定机场，性价比很高，节点采用的是SS协议，属于中高端质量提供稳定的网络加速服务.所有套餐均不设限速，也不限制设备数量，并稳定解锁ChatGPT、Netflix、Disney+、动画疯等等媒体。
-### [🚀MSYLL最新官网](https://yq.yq3566.top/#/register?code=kMLKFXMq)
+### [MSYLL最新官网](https://yq.yq3566.top/#/register?code=kMLKFXMq)
 
 | 套餐 | 时长 | 价格 | 流量 |
 |------|------|------|------|
