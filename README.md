@@ -38,23 +38,6 @@ ___
 
 
 <br><br><br>
-- [Android 代理工具](#Android代理工具)
-
-- [Windows 代理工具](#Windows代理工具)
-
-- [Mac 代理工具](#MacOS代理工具)
-
-- [iOS 代理工具](#iOS代理工具)
-
-- [Linux 代理工具](#Linux代理工具)
-
-- [精选节点（支持全部代理工具）](#-精选节点)
-
-<br><br><br>
-
----
-
-<br><br><br>
 <br><br><br>
 ## Android代理工具
 | 名称     | 描述       | 下载       |
