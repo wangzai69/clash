@@ -27,7 +27,7 @@ ___
 <br>
 <br>
 
-### 🚀 专题链接 | Featured Topics  
+### 🚀 专题链接 | Topic link  
 ### [🚀 clash官方镜像下载（终结篇）](https://github.com/wangzai69/ClashX)
 
 <br>
