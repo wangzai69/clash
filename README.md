@@ -1,8 +1,6 @@
 <h1 align="center">📘Tech Blog  | 科技博客</h1>
 
 <br>
-<br>
-<br>
 
 > **探索技术 · 分享经验 · 记录成长**
 > 
@@ -13,8 +11,6 @@
 ![MacOS](https://img.shields.io/badge/OS-MacOS-lightgrey)
 ![iOS](https://img.shields.io/badge/苹果-iOS-red)
 > 
-<br>
-<br>
 <br>
 
 ## 精品分享
