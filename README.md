@@ -16,7 +16,7 @@ ___
 <br>
 
 ### 📂 目录 | Table of Contents  
-- [🚀 精选专题 | Featured Topics](#-精选专题--Featured-Topics)  
+- [🚀 专题分享 | Featured Topics](#-专题分享--Featured-Topics)  
 - [📖 精选节点 | Featured nodes](#-精选节点--Featured-nodes)  
 - [📌 关于我 | About Me ](#-关于我--about-me)  
 - [📬 联系方式 | Contact](#-联系方式--contact)  
@@ -27,7 +27,7 @@ ___
 <br>
 <br>
 
-### 🚀 精选专题 | Featured Topics  
+### 🚀 专题分享 | Featured Topics  
 ### [🚀clash官方镜像下载](https://github.com/wangzai69/ClashX)
 ### [🚀clash官方镜像下载](https://github.com/wangzai69/ClashX)
 ### [🚀clash官方镜像下载](https://github.com/wangzai69/ClashX)
