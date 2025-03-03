@@ -14,13 +14,13 @@
 <br>
 
 ### 📂 目录 | Table of Contents  
-- [🚀 精选专题](#精选专题)  
+- [🚀 精选专题 | Featured Topics](#-精选专题--Featured Topics)  
 - [📖 节点分享](#节点分享)  
 - [📌 关于我](#-关于我--about-me)  
 - [📬 联系方式](#-联系方式--contact)  
 
 
-### 🚀精选专题
+### 📖 精选专题 | Featured Topics  
 ### [🚀clash官方镜像下载](https://github.com/wangzai69/ClashX)
 ### [🚀clash官方镜像下载](https://github.com/wangzai69/ClashX)
 ### [🚀clash官方镜像下载](https://github.com/wangzai69/ClashX)
