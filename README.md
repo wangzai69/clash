@@ -130,7 +130,7 @@ MSYLL是一家成立于2020年稳定机场，性价比很高，节点采用的�
 
 ### 📬 联系方式 | Contact  
 📧 **Email**: [your.email@example.com](mailto:your.email@example.com)  
-🐙 **GitHub**: [@your-github](https://github.com/your-github)  
+🐙 **GitHub**: [@your-github](https://github.com/wangzai69)  
 🌐 **个人网站**: [your-website.com](https://your-website.com)  
 
 📢 **如果你喜欢这个博客，请 ⭐Star 支持！**  
