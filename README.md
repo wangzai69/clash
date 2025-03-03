@@ -9,6 +9,10 @@
 
 ``` *最后更新时间： `2025年03月03日`*
 
+```python
+print("Hello, GitHub!")
+
+
 
 <br>
 
