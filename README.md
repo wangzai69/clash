@@ -1,4 +1,4 @@
-<h1 align="center">旺仔的博客</h1>
+<h1 align="center">【旺仔69】的博客</h1>
 
 ![Android](https://img.shields.io/badge/安卓-Android-brightgreen)
 ![Windows](https://img.shields.io/badge/微软-Windows-blue)
