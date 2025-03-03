@@ -12,7 +12,7 @@
 <br>
 
 ## 🚀 专题外链 | Topic link  
-#### [ clash官方镜像下载（终结篇）](https://github.com/wangzai69/ClashX)
+#### [ clash官方镜像下载（终结篇）](https://github.com/wangzai69/clash)
 
 <br>
 <br>
