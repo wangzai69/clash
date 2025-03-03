@@ -1,10 +1,10 @@
-<h1 align="center">wangzai69</h1>
+<h1 align="center">旺仔的博客</h1>
 
 ![Android](https://img.shields.io/badge/安卓-Android-brightgreen)
 ![Windows](https://img.shields.io/badge/微软-Windows-blue)
 ![MacOS](https://img.shields.io/badge/OS-MacOS-lightgrey)
 ![iOS](https://img.shields.io/badge/苹果-iOS-red)
-![Linux](https://img.shields.io/badge/Linux-Linux-red)
+![Linux](https://img.shields.io/badge/Linux-Li nux-red)
 > ****最后更新时间：**** 2024年11月1日
 
 <br><br><br>
