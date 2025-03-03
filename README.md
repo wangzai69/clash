@@ -28,12 +28,8 @@ ___
 <br>
 
 ### 🚀 专题分享 | Featured Topics  
-### [🚀clash官方镜像下载](https://github.com/wangzai69/ClashX)
-### [🚀clash官方镜像下载](https://github.com/wangzai69/ClashX)
-### [🚀clash官方镜像下载](https://github.com/wangzai69/ClashX)
-### [🚀clash官方镜像下载](https://github.com/wangzai69/ClashX)
-### [🚀clash官方镜像下载](https://github.com/wangzai69/ClashX)
-### [🚀clash官方镜像下载](https://github.com/wangzai69/ClashX)
+### [🚀 clash官方镜像下载（终结篇）](https://github.com/wangzai69/ClashX)
+
 <br>
 <br>
 <br>
