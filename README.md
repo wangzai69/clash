@@ -6,7 +6,7 @@
 ![iOS](https://img.shields.io/badge/苹果-iOS-red)
 > ****最后更新时间：**** 2024年11月1日
 
-- ![clash官方镜像下载]([https://img.shields.io/badge/Linux-Li nux-red](https://github.com/wangzai69/ClashX))
+- [clash官方镜像下载](https://github.com/wangzai69/ClashX)
 - 
 <br><br><br>
 - [Android 代理工具](#Android代理工具)
