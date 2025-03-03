@@ -1,4 +1,4 @@
-<h1 align="center">clash官方镜像下载（终结篇）</h1>
+<h1 align="center">wangzai69</h1>
 
 ![Android](https://img.shields.io/badge/安卓-Android-brightgreen)
 ![Windows](https://img.shields.io/badge/微软-Windows-blue)
