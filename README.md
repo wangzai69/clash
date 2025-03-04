@@ -8,6 +8,11 @@
 ![自定义徽章](https://img.shields.io/badge/梯-子-yellow)
 ![自定义颜色](https://img.shields.io/badge/科学-上网-orange)
 ![自定义徽章](https://img.shields.io/badge/文本-颜色-purple)
+![自定义徽章](https://img.shields.io/badge/文本-颜色-Bright-Green)
+![自定义徽章](https://img.shields.io/badge/文本-颜色-Green)
+![自定义徽章](https://img.shields.io/badge/文本-颜色-Orange)
+![自定义徽章](https://img.shields.io/badge/文本-颜色-Blue)
+
 
 
 *探索技术 · 分享经验 · 记录成长*
