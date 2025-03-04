@@ -7,6 +7,7 @@
 [![自定义徽章](https://img.shields.io/badge/Hello-World-blue)](https://github.com)
 ![自定义徽章](https://img.shields.io/badge/linux-github-颜色?style=flat)
 ![渐变徽章](https://img.shields.io/badge/Gradient-Effect-ff5733?colorA=blue&colorB=red)
+![自定义颜色](https://img.shields.io/badge/Custom_Color-000000?color=%23ff5733)
 
 
 *探索技术 · 分享经验 · 记录成长*
