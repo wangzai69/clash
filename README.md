@@ -8,6 +8,9 @@
 ![自定义徽章](https://img.shields.io/badge/网络-梯子-yellow)
 ![自定义颜色](https://img.shields.io/badge/科学-上网-orange)
 ![自定义徽章](https://img.shields.io/badge/图文-教程-purple)
+![Android](https://img.shields.io/badge/美区-ID-brightgreen)
+![Windows](https://img.shields.io/badge/clash-clashX-blue)
+![MacOS](https://img.shields.io/badge/shadowrocket-小火箭-lightgrey)
 
 
 
