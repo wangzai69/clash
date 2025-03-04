@@ -3,7 +3,7 @@
 ![Android](https://img.shields.io/badge/安卓-Android-brightgreen)
 ![Windows](https://img.shields.io/badge/微软-Windows-blue)
 ![MacOS](https://img.shields.io/badge/OS-MacOS-lightgrey)
-![iOS](https://img.shields.io/badge/苹果-iOS-red)
+![iOS](https://img.shields.io/badge/iOS-iPhone-red)
 ![自定义徽章](https://img.shields.io/badge/linux-github-颜色?style=flat)
 [![自定义徽章](https://img.shields.io/badge/梯子-T子-blue)](https://github.com)
 ![自定义颜色](https://img.shields.io/badge/科学上网-000000?color=%23ff5733)
