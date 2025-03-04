@@ -5,7 +5,7 @@
 ![MacOS](https://img.shields.io/badge/OS-MacOS-lightgrey)
 ![iOS](https://img.shields.io/badge/苹果-iOS-red)
 [![自定义徽章](https://img.shields.io/badge/Hello-World-blue)](https://github.com)
-![自定义徽章](https://img.shields.io/badge/linux-颜色?style=flat)
+![自定义徽章](https://img.shields.io/badge/linux-github-颜色?style=flat)
 ![Hello](https://img.shields.io/badge/linux-World-blue)
 [![自定义徽章](https://img.shields.io/badge/Hello-World-blue)](https://github.com)
 ![GitHub Repo stars](https://img.shields.io/github/stars/USERNAME/REPO?style=flat)
