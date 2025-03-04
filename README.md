@@ -22,7 +22,7 @@
 
 ## 🚀 专题外链 | Topic link  
 #### [2025clash官方镜像下载实时更新（终结篇）](https://github.com/wangzai69/clash)
-#### [2025精选翻墙机场科学上网梯子实时更新（终结篇）](https://github.com/wangzai69/clash)
+#### [2025精选翻墙机场科学上网梯子实时更新（终结篇）](https://github.com/wangzai69/vpn)
 
 <br>
 <br>
