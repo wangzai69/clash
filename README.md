@@ -5,7 +5,7 @@
 ![MacOS](https://img.shields.io/badge/OS-MacOS-lightgrey)
 ![iOS](https://img.shields.io/badge/苹果-iOS-red)
 ![自定义徽章](https://img.shields.io/badge/linux-github-green)
-![自定义徽章](https://img.shields.io/badge/梯-子-yellow)
+![自定义徽章](https://img.shields.io/badge/网络-梯子-yellow)
 ![自定义颜色](https://img.shields.io/badge/科学-上网-orange)
 ![自定义徽章](https://img.shields.io/badge/文本-颜色-purple)
 
