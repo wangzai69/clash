@@ -1,4 +1,4 @@
-<h1 align="center">2025 clash官方镜像下载（终结篇）实时更新</h1>
+<h1 align="center">2025clash官方镜像下载实时更新（终结篇）</h1>
 
 ![Android](https://img.shields.io/badge/安卓-Android-brightgreen)
 ![Windows](https://img.shields.io/badge/微软-Windows-blue)
@@ -21,7 +21,7 @@
 <br>
 
 ## 🚀 专题外链 | Topic link  
-#### [2025 clash官方镜像下载（终结篇）实时更新](https://github.com/wangzai69/clash)
+#### [2025clash官方镜像下载实时更新（终结篇）](https://github.com/wangzai69/clash)
 
 <br>
 <br>
