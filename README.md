@@ -1,7 +1,7 @@
 <h1 align="center">clash官方镜像下载（终结篇）</h1>
 
 ![Android](https://img.shields.io/badge/安卓-Android-000000?color=%23BBFFFF)
-![Windows](https://img.shields.io/badge/微软-Windows-000000?color=%000080)
+![Windows](https://img.shields.io/badge/微软-Windows-000000?color=%23000080)
 ![MacOS](https://img.shields.io/badge/OS-MacOS-000000?color=%2300FF00)
 ![iOS](https://img.shields.io/badge/iOS-iPhone-000000?color=%23ff5733)
 ![自定义徽章](https://img.shields.io/badge/linux-github-000000?color=%23ff5733)
