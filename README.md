@@ -4,12 +4,10 @@
 ![Windows](https://img.shields.io/badge/微软-Windows-blue)
 ![MacOS](https://img.shields.io/badge/OS-MacOS-lightgrey)
 ![iOS](https://img.shields.io/badge/苹果-iOS-red)
-![GitHub stars](https://img.shields.io/github/stars/USERNAME/REPO?style=social)
 ![linux](https://img.shields.io/github/v/release/USERNAME/REPO)
 ![GitHub issues](https://img.shields.io/github/issues/USERNAME/REPO)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/USERNAME/REPO)
 ![GitHub license](https://img.shields.io/github/license/USERNAME/REPO)
-![GitHub forks](https://img.shields.io/github/forks/USERNAME/REPO?style=social)
 ![GitHub contributors](https://img.shields.io/github/contributors/USERNAME/REPO)
 ![自定义徽章](https://img.shields.io/badge/文本-颜色?style=flat)
 ![Hello](https://img.shields.io/badge/Hello-World-blue)
@@ -17,7 +15,8 @@
 ![自定义徽章](https://img.shields.io/badge/Hello-World-blue?style=for-the-badge&logo=github)
 [![自定义徽章](https://img.shields.io/badge/Hello-World-blue)](https://github.com)
 ![GitHub Repo stars](https://img.shields.io/github/stars/USERNAME/REPO?style=flat)
-
+![GitHub stars](https://img.shields.io/github/stars/USERNAME/REPO?style=social)
+![GitHub forks](https://img.shields.io/github/forks/USERNAME/REPO?style=social)
 
 *探索技术 · 分享经验 · 记录成长*
 
