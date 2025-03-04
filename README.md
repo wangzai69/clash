@@ -1,11 +1,11 @@
 <h1 align="center">clash官方镜像下载（终结篇）</h1>
 
-![Android](https://img.shields.io/badge/安卓-Android-brightgreen)
-![Windows](https://img.shields.io/badge/微软-Windows-blue)
-![MacOS](https://img.shields.io/badge/OS-MacOS-lightgrey)
-![iOS](https://img.shields.io/badge/iOS-iPhone-red)
-![自定义徽章](https://img.shields.io/badge/linux-github-颜色?style=flat)
-![自定义徽章](https://img.shields.io/badge/梯子-blue)
+![Android](https://img.shields.io/badge/安卓-Android--000000?color=%23BBFFFF)
+![Windows](https://img.shields.io/badge/微软-Windows--000000?color=%000080)
+![MacOS](https://img.shields.io/badge/OS-MacOS--000000?color=%2300FF00)
+![iOS](https://img.shields.io/badge/iOS-iPhone--000000?color=%23ff5733)
+![自定义徽章](https://img.shields.io/badge/linux-github--000000?color=%23ff5733)
+![自定义徽章](https://img.shields.io/badge/梯子--000000?color=%23006400)
 ![自定义颜色](https://img.shields.io/badge/科学-上网-000000?color=%23ff5733)
 
 
