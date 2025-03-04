@@ -4,6 +4,15 @@
 ![Windows](https://img.shields.io/badge/微软-Windows-blue)
 ![MacOS](https://img.shields.io/badge/OS-MacOS-lightgrey)
 ![iOS](https://img.shields.io/badge/苹果-iOS-red)
+![GitHub stars](https://img.shields.io/github/stars/USERNAME/REPO?style=social)
+![GitHub Workflow Status](https://github.com/USERNAME/REPO/actions/workflows/WORKFLOW_FILE/badge.svg)
+![GitHub release](https://img.shields.io/github/v/release/USERNAME/REPO)
+![GitHub issues](https://img.shields.io/github/issues/USERNAME/REPO)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/USERNAME/REPO)
+![GitHub license](https://img.shields.io/github/license/USERNAME/REPO)
+![GitHub forks](https://img.shields.io/github/forks/USERNAME/REPO?style=social)
+![GitHub contributors](https://img.shields.io/github/contributors/USERNAME/REPO)
+
 
 *探索技术 · 分享经验 · 记录成长*
 
