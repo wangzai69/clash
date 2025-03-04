@@ -21,7 +21,7 @@
 <br>
 
 ## 🚀 专题外链 | Topic link  
-#### [ clash官方镜像下载（终结篇）](https://github.com/wangzai69/clash)
+#### [2025 clash官方镜像下载（终结篇）实时更新](https://github.com/wangzai69/clash)
 
 <br>
 <br>
