@@ -7,6 +7,7 @@
 ![自定义徽章](https://img.shields.io/badge/linux-github-000000?color=%234B0082)
 ![自定义徽章](https://img.shields.io/badge/梯子-000000?color=%23FF1493)
 ![自定义颜色](https://img.shields.io/badge/科学-上网-000000?color=%23ff5733)
+![自定义徽章](https://img.shields.io/badge/文本-颜色?style=flat)
 
 
 *探索技术 · 分享经验 · 记录成长*
