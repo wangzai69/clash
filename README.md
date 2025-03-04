@@ -11,6 +11,12 @@
 ![GitHub license](https://img.shields.io/github/license/USERNAME/REPO)
 ![GitHub forks](https://img.shields.io/github/forks/USERNAME/REPO?style=social)
 ![GitHub contributors](https://img.shields.io/github/contributors/USERNAME/REPO)
+![自定义徽章](https://img.shields.io/badge/文本-颜色?style=flat)
+![Hello](https://img.shields.io/badge/Hello-World-blue)
+![自定义徽章](https://img.shields.io/badge/Hello-World-blue?logo=github)
+![自定义徽章](https://img.shields.io/badge/Hello-World-blue?style=for-the-badge&logo=github)
+[![自定义徽章](https://img.shields.io/badge/Hello-World-blue)](https://github.com)
+![GitHub Repo stars](https://img.shields.io/github/stars/USERNAME/REPO?style=flat)
 
 
 *探索技术 · 分享经验 · 记录成长*
