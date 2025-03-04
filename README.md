@@ -20,9 +20,9 @@
 
 <br>
 
-## 📖 专题外链 | Topic link  
-#### [2025官方clash镜像下载（终结篇）实时更新](https://github.com/wangzai69/clash)
+## 📖 专题外链 | Topic link
 #### [2025精选翻墙机场科学上网梯子节点（终结篇）实时更新](https://github.com/wangzai69/vpn)
+#### [2025官方clash镜像下载（终结篇）实时更新](https://github.com/wangzai69/clash)
 #### [2025官方shadowrocket小火箭免费下载（终结篇）实时更新](https://github.com/wangzai69/shadowrocket)
 
 <br>
