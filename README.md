@@ -22,7 +22,7 @@
 
 ## 📖 经典外链 | 实时更新
 #### [2025精选翻墙机场科学上网梯子节点（终结篇）实时更新](https://github.com/wangzai69/vpn)
-#### [2025官方clash镜像下载（终结篇）实时更新](https://github.com/wangzai69/clash)
+#### [2025官方clash等代理工具镜像下载（终结篇）实时更新](https://github.com/wangzai69/clash)
 #### [2025官方shadowrocket小火箭免费下载（终结篇）实时更新](https://github.com/wangzai69/shadowrocket)
 #### [2025官方版谷歌GooglePlay服务框架（终结篇）实时更新](https://github.com/wangzai69/GooglePlay)
 #### [2025最新免费TikTok苹果安卓教程（终结篇）实时更新](https://github.com/wangzai69/GooglePlay)
