@@ -48,7 +48,7 @@
 | 名称     | 描述       | 下载       |
 |----------|------------|------------|
 | Clash        | 作者已删库        | [备份下载](https://dl.haojichang.com/apps/clash_for_android/cfa-2.5.12-premium-universal-release.apk) |
-| Clash Meta   | v8a   | [镜像下载](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.1/cmfa-2.11.1-meta-arm64-v8a-release.apk) |
+| Clash Meta   | v8a   | [镜像下载](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.7/cmfa-2.11.7-meta-arm64-v8a-release.apk) |
 | Clash Meta   | v7a       | [镜像下载](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.1/cmfa-2.11.1-meta-armeabi-v7a-release.apk) |
 | v2rayNG   | v8a   | [镜像下载](https://github.com/2dust/v2rayNG/releases/download/1.9.9/v2rayNG_1.9.9_arm64-v8a.apk) |
 | v2rayNG   | v7a       | [镜像下载](https://github.com/2dust/v2rayNG/releases/download/1.9.9/v2rayNG_1.9.9_armeabi-v7a.apk) |
