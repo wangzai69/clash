@@ -24,7 +24,7 @@
 - [2025精选翻墙科学上网梯子节点](https://github.com/wangzai69/vpn)
 - [2025官方clash等代理工具镜像下载](https://github.com/wangzai69/clash)
 - [2025免费官方shadowrocket小火箭](https://github.com/wangzai69/shadowrocket)
-- [2025官方谷歌GooglePlay服务框架](https://github.com/wangzai69/GooglePlay)
+- [2025免费官方GooglePlay服务框架](https://github.com/wangzai69/GooglePlay)
 - [2025最新免费TikTok苹果安卓教程](https://github.com/wangzai69/GooglePlay)
 - [更多文章更新中 ... ]()
 
