@@ -43,6 +43,7 @@
 <br>
 
 ### Android 代理工具
+####ARM64-v8a和ARM-v7a下载哪个？
 | 名称     | 描述       | 下载       |
 |----------|------------|------------|
 | Clash        | 作者已删库        | [备份下载](https://dl.haojichang.com/apps/clash_for_android/cfa-2.5.12-premium-universal-release.apk) |
