@@ -24,8 +24,8 @@
 #### [2025精选翻墙机场科学上网梯子节点vpn（终结篇）实时更新](https://github.com/wangzai69/vpn)
 #### [2025官方clash等节点代理工具镜像下载（终结篇）实时更新](https://github.com/wangzai69/clash)
 #### [2025官方shadowrocket小火箭免费下载（终结篇）实时更新](https://github.com/wangzai69/shadowrocket)
-#### [2025官方版谷歌GooglePlay服务框架（终结篇）实时更新](https://github.com/wangzai69/GooglePlay)
-#### [2025最新免费TikTok苹果安卓教程（终结篇）实时更新](https://github.com/wangzai69/GooglePlay)
+#### [2025官方谷歌商店GooglePlay服务框架（终结篇）实时更新](https://github.com/wangzai69/GooglePlay)
+#### [2025最新免费TikTok苹果安卓免拔卡教程（终结篇）实时更新](https://github.com/wangzai69/GooglePlay)
 #### [更多文章更新中 ... ]()
 
 <br>
