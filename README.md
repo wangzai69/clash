@@ -58,8 +58,8 @@
 | Surfboard   | v2.24.5   | 19.8 MB   |v8a        | [镜像下载](https://github.com/getsurfboard/surfboard/releases/download/2.24.5/mobile-arm64-v8a-release.apk) |
 | Surfboard   | v2.24.5   | 19.7 MB   |v7a        | [镜像下载](https://github.com/getsurfboard/surfboard/releases/download/2.24.5/mobile-armeabi-v7a-release.apk) |
 | Surfboard   | v2.24.5   | 44.4 MB   |通用版本    | [镜像下载](https://github.com/getsurfboard/surfboard/releases/download/2.24.5/mobile-universal-release.apk) |
-| FlClash     |           |           |v8a        | [镜像下载](https://github.com/chen08209/FlClash/releases/download/v0.8.66/FlClash-0.8.66-android-arm64-v8a.apk) |
-| FlClash     |           |           |v7a        | [镜像下载](https://github.com/chen08209/FlClash/releases/download/v0.8.66/FlClash-0.8.66-android-armeabi-v7a.apk) |
+| FlClash     | v0.8.79   | 37.9 MB   |v8a        | [镜像下载](https://github.com/chen08209/FlClash/releases/download/v0.8.79/FlClash-0.8.79-android-arm64-v8a.apk) |
+| FlClash     | v0.8.79   | 37.6 MB   |v7a        | [镜像下载](https://github.com/chen08209/FlClash/releases/download/v0.8.79/FlClash-0.8.79-android-armeabi-v7a.apk) |
 
 <br>
 
