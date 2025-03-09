@@ -46,7 +46,7 @@
 ##### 高版本系统手机建议下载 arm64-v8a （第8代、64位ARM处理器）版本，能够发挥手机最佳性能；低版本系统手机选择ARM-v7a
 | 名称        | 最新版本  | 文件大小  | 描述      | 下载      |
 |-------------|-----------|-----------|-----------|-----------|
-| Clash       | v2.5.12   | 34.2 MB   |删库  | [备份下载](https://dl.haojichang.com/apps/clash_for_android/cfa-2.5.12-premium-universal-release.apk) |
+| Clash       | v2.5.12   | 34.2 MB   |作者已删库  | [备份下载](https://dl.haojichang.com/apps/clash_for_android/cfa-2.5.12-premium-universal-release.apk) |
 | Clash Meta  | v2.11.7   | 22.6 MB   |v8a        | [镜像下载](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.7/cmfa-2.11.7-meta-arm64-v8a-release.apk) |
 | Clash Meta  | v2.11.7   | 22.8 MB   |v7a        | [镜像下载](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.1/cmfa-2.11.1-meta-armeabi-v7a-release.apk) |
 | Clash Meta  | v2.11.7   | 57.3 MB   |通用    | [镜像下载](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.7/cmfa-2.11.7-meta-universal-release.apk) |
@@ -66,8 +66,8 @@
 ### Windows 代理工具
 | 名称           | 最新版本  | 文件大小  | 描述 | 安装       |
 |----------------|-----------|-----------|------|-------------|
-| Clash          | v0.20.39  |           |删库| [64位备份](https://dl.haojichang.com/apps/clash_for_windows/Clash.for.Windows.Setup.0.20.39.arm64.exe) |
-| Clash          | v0.20.39  |           |删库| [32位备份](https://dl.haojichang.com/apps/clash_for_windows/Clash.for.Windows.Setup.0.20.39.ia32.exe) |
+| Clash          | v0.20.39  |           |作者已删库| [64位备份](https://dl.haojichang.com/apps/clash_for_windows/Clash.for.Windows.Setup.0.20.39.arm64.exe) |
+| Clash          | v0.20.39  |           |作者已删库| [32位备份](https://dl.haojichang.com/apps/clash_for_windows/Clash.for.Windows.Setup.0.20.39.ia32.exe) |
 | Clash Verge    |           |           | 64位 | [镜像下载](https://github.com/zzzgydi/clash-verge/releases/download/v1.3.8/Clash.Verge_1.3.8_x64-setup.exe) |
 | Clash Verge Rev|           |           | 64位 | [镜像下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_x64-setup.exe) |
 | Clash Verge Rev|           |           | 32位 | [镜像下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_x86-setup.exe) |
