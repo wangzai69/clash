@@ -63,6 +63,17 @@
 
 <br>
 
+### iOS 代理工具
+| 名称        | 最新版本  | 文件大小  | 描述      | 下载      |
+|-------------|-----------|-----------|-----------|-----------|
+| Shadowrocket |   V2.2.61 |  42.4 MB | $2.99    | [镜像下载](https://apps.apple.com/us/app/shadowrocket/id932747118) |
+| Quantumult X |   V1.5.0  |  24.3 MB |$7.99     | [镜像下载](https://apps.apple.com/us/app/quantumult-x/id1443988620) |
+| Stash        |   V2.2.61 | 112.5 MB | $3.99    | [镜像下载](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349) |
+| Hiddify      |   V2.7.0 | 147.4 MB  | $0    | [镜像下载](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349) |
+- 有提供免费下载的ID[2025官方shadowrocket小火箭免费下载（终结篇）实时更新](https://github.com/wangzai69/shadowrocket)
+
+<br>
+
 ### Windows 代理工具
 | 名称           | 最新版本  | 文件大小  | 描述 | 安装       |
 |----------------|-----------|-----------|------|-------------|
@@ -95,17 +106,6 @@
 | Clash Verge Rev|  v2.1.2   |  49.5 MB  |apple M芯片        | [镜像下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.1.2/Clash.Verge_2.1.2_aarch64.dmg) |
 | V2rayU         |  v4.2.5   |   29.5 MB |apple M芯片      | [镜像下载](https://github.com/yanue/V2rayU/releases/download/v4.2.5/V2rayU-arm64.dmg) |
 | V2rayU         |  v4.2.5   |   29.5 MB |intel芯片      | [镜像下载](https://github.com/yanue/V2rayU/releases/download/v4.2.5/V2rayU-64.dmg) |
-- 有提供免费下载的ID[2025官方shadowrocket小火箭免费下载（终结篇）实时更新](https://github.com/wangzai69/shadowrocket)
-
-<br>
-
-### iOS 代理工具
-| 名称        | 最新版本  | 文件大小  | 描述      | 下载      |
-|-------------|-----------|-----------|-----------|-----------|
-| Shadowrocket |   V2.2.61 |  42.4 MB | $2.99    | [镜像下载](https://apps.apple.com/us/app/shadowrocket/id932747118) |
-| Quantumult X |   V1.5.0  |  24.3 MB |$7.99     | [镜像下载](https://apps.apple.com/us/app/quantumult-x/id1443988620) |
-| Stash        |   V2.2.61 | 112.5 MB | $3.99    | [镜像下载](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349) |
-| Hiddify      |   V2.7.0 | 147.4 MB  | $0    | [镜像下载](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349) |
 - 有提供免费下载的ID[2025官方shadowrocket小火箭免费下载（终结篇）实时更新](https://github.com/wangzai69/shadowrocket)
 
 <br>
