@@ -46,7 +46,7 @@
 ##### 高版本系统手机建议下载 arm64-v8a （第8代、64位ARM处理器）版本，能够发挥手机最佳性能；低版本系统手机选择ARM-v7a
 | 名称        | 最新版本  | 文件大小  | 描述      | 下载      |
 |-------------|-----------|-----------|-----------|-----------|
-| Clash       | v2.5.12  |           |作者已删库  | [备份下载](https://dl.haojichang.com/apps/clash_for_android/cfa-2.5.12-premium-universal-release.apk) |
+| Clash       | v2.5.12   | 34.2 MB   |作者已删库  | [备份下载](https://dl.haojichang.com/apps/clash_for_android/cfa-2.5.12-premium-universal-release.apk) |
 | Clash Meta  | v2.11.7   | 22.6 MB   |v8a        | [镜像下载](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.7/cmfa-2.11.7-meta-arm64-v8a-release.apk) |
 | Clash Meta  | v2.11.7   | 22.8 MB   |v7a        | [镜像下载](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.1/cmfa-2.11.1-meta-armeabi-v7a-release.apk) |
 | Clash Meta  | v2.11.7   | 57.3 MB   |通用版本    | [镜像下载](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.7/cmfa-2.11.7-meta-universal-release.apk) |
