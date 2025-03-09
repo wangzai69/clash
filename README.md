@@ -44,20 +44,21 @@
 ### Android 代理工具
 #### ARM64-v8a和ARM-v7a下载哪个？
 ##### 高版本系统手机建议下载 arm64-v8a （第8代、64位ARM处理器）版本，能够发挥手机最佳性能；低版本系统手机选择ARM-v7a
-| 名称        | 最新版本  | 描述      | 下载     |
-|-------------|-----------|-----------|-----------|
-| Clash       |           |作者已删库  | [备份下载](https://dl.haojichang.com/apps/clash_for_android/cfa-2.5.12-premium-universal-release.apk) |
-| Clash Meta  | v2.11.7   |v8a        | [镜像下载](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.7/cmfa-2.11.7-meta-arm64-v8a-release.apk) |
-| Clash Meta  | v2.11.7   |v7a        | [镜像下载](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.1/cmfa-2.11.1-meta-armeabi-v7a-release.apk) |
-| Clash Meta  | v2.11.7   |通用版本    | [镜像下载](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.7/cmfa-2.11.7-meta-universal-release.apk) |
-| v2rayNG     |           |v8a        | [镜像下载](https://github.com/2dust/v2rayNG/releases/download/1.9.9/v2rayNG_1.9.9_arm64-v8a.apk) |
-| v2rayNG     |           |v7a        | [镜像下载](https://github.com/2dust/v2rayNG/releases/download/1.9.9/v2rayNG_1.9.9_armeabi-v7a.apk) |
-| NekoBox     |           |v8a        | [镜像下载](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/download/1.3.2/NB4A-1.3.2-arm64-v8a.apk) |
-| NekoBox     |           |v7a        | [镜像下载](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/download/1.3.2/NB4A-1.3.2-armeabi-v7a.apk) |
-| Surfboard   |           |v8a        | [镜像下载](https://github.com/getsurfboard/surfboard/releases/download/tv-1.0.2/tv-arm64-v8a-release.apk) |
-| Surfboard   |           |v7a        | [镜像下载](https://github.com/getsurfboard/surfboard/releases/download/tv-1.0.2/tv-armeabi-v7a-release.apk) |
-| FlClash     |           |v8a        | [镜像下载](https://github.com/chen08209/FlClash/releases/download/v0.8.66/FlClash-0.8.66-android-arm64-v8a.apk) |
-| FlClash     |           |v7a        | [镜像下载](https://github.com/chen08209/FlClash/releases/download/v0.8.66/FlClash-0.8.66-android-armeabi-v7a.apk) |
+| 名称        | 最新版本  | 文件大小  | 描述      | 下载      |
+|-------------|-----------|-----------|-----------|-----------|
+| Clash       |           |           |作者已删库  | [备份下载](https://dl.haojichang.com/apps/clash_for_android/cfa-2.5.12-premium-universal-release.apk) |
+| Clash Meta  | v2.11.7   | 22.6 MB   |v8a        | [镜像下载](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.7/cmfa-2.11.7-meta-arm64-v8a-release.apk) |
+| Clash Meta  | v2.11.7   | 22.8 MB   |v7a        | [镜像下载](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.1/cmfa-2.11.1-meta-armeabi-v7a-release.apk) |
+| Clash Meta  | v2.11.7   | 57.3 MB   |通用版本    | [镜像下载](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.7/cmfa-2.11.7-meta-universal-release.apk) |
+| v2rayNG     | v1.9.39   | 29.5 MB   |v8a        | [镜像下载](https://github.com/2dust/v2rayNG/releases/download/1.9.39/v2rayNG_1.9.39_arm64-v8a.apk) |
+| v2rayNG     | v1.9.39   | 29.8 MB   |v7a        | [镜像下载](https://github.com/2dust/v2rayNG/releases/download/1.9.39/v2rayNG_1.9.39_armeabi-v7a.apk) |
+| v2rayNG     | v1.9.39   | 83.5 MB   |通用版本    | [镜像下载](https://github.com/2dust/v2rayNG/releases/download/1.9.39/v2rayNG_1.9.39_universal.apk) |
+| NekoBox     |           |           |v8a        | [镜像下载](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/download/1.3.2/NB4A-1.3.2-arm64-v8a.apk) |
+| NekoBox     |           |           |v7a        | [镜像下载](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/download/1.3.2/NB4A-1.3.2-armeabi-v7a.apk) |
+| Surfboard   |           |           |v8a        | [镜像下载](https://github.com/getsurfboard/surfboard/releases/download/tv-1.0.2/tv-arm64-v8a-release.apk) |
+| Surfboard   |           |           |v7a        | [镜像下载](https://github.com/getsurfboard/surfboard/releases/download/tv-1.0.2/tv-armeabi-v7a-release.apk) |
+| FlClash     |           |           |v8a        | [镜像下载](https://github.com/chen08209/FlClash/releases/download/v0.8.66/FlClash-0.8.66-android-arm64-v8a.apk) |
+| FlClash     |           |           |v7a        | [镜像下载](https://github.com/chen08209/FlClash/releases/download/v0.8.66/FlClash-0.8.66-android-armeabi-v7a.apk) |
 
 <br>
 
