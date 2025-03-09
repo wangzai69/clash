@@ -66,7 +66,7 @@
 ### Windows 代理工具
 | 名称           | 最新版本  | 文件大小  | 描述 | 安装       |
 |----------------|-----------|-----------|------|-------------|
-| Clash          | v0.20.39  |           |作者已删库| [64位备份](https://dl.haojichang.com/apps/clash_for_windows/Clash.for.Windows.Setup.0.20.39.arm64.exe) |
+| Clash          | v0.20.39  |  82.3 MB  |作者已删库| [64位备份](https://dl.haojichang.com/apps/clash_for_windows/Clash.for.Windows.Setup.0.20.39.arm64.exe) |
 | Clash          | v0.20.39  |           |作者已删库| [32位备份](https://dl.haojichang.com/apps/clash_for_windows/Clash.for.Windows.Setup.0.20.39.ia32.exe) |
 | Clash Verge    |           |           | 64位 | [镜像下载](https://github.com/zzzgydi/clash-verge/releases/download/v1.3.8/Clash.Verge_1.3.8_x64-setup.exe) |
 | Clash Verge Rev|           |           | 64位 | [镜像下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_x64-setup.exe) |
