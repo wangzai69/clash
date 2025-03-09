@@ -84,6 +84,7 @@
 | 代理工具名称    | 最新版本  | 文件大小  | 描述  | 安装       |
 |----------------|-----------|-----------|------|-------------|
 | Shadowrocket |   V2.2.61 |  42.4 MB | $2.99    | [镜像下载](https://apps.apple.com/us/app/shadowrocket/id932747118) |
+|有提供免费下载的ID[2025官方shadowrocket小火箭免费下载（终结篇）实时更新](https://github.com/wangzai69/shadowrocket)|
 | Quantumult X |   V1.5.0  |  24.3 MB |$7.99     | [镜像下载](https://apps.apple.com/us/app/quantumult-x/id1443988620) |
 | Stash        |   V2.2.61 | 112.5 MB | $3.99    | [镜像下载](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349) |
 | Hiddify      |   V2.7.0 | 147.4 MB  | $0    | [镜像下载](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349) |
