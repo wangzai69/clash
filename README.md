@@ -55,8 +55,9 @@
 | v2rayNG     | v1.9.39   | 83.5 MB   |通用版本    | [镜像下载](https://github.com/2dust/v2rayNG/releases/download/1.9.39/v2rayNG_1.9.39_universal.apk) |
 | NekoBox     | v1.3.8    | 14.4 MB   |v8a        | [镜像下载](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/download/1.3.8/NekoBox-1.3.8-arm64-v8a.apk) |
 | NekoBox     | v1.3.8    | 14.5 MB   |v7a        | [镜像下载](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/download/1.3.8/NekoBox-1.3.8-armeabi-v7a.apk) |
-| Surfboard   |           |           |v8a        | [镜像下载](https://github.com/getsurfboard/surfboard/releases/download/tv-1.0.2/tv-arm64-v8a-release.apk) |
-| Surfboard   |           |           |v7a        | [镜像下载](https://github.com/getsurfboard/surfboard/releases/download/tv-1.0.2/tv-armeabi-v7a-release.apk) |
+| Surfboard   | v2.24.5   | 19.8 MB   |v8a        | [镜像下载](https://github.com/getsurfboard/surfboard/releases/download/2.24.5/mobile-arm64-v8a-release.apk) |
+| Surfboard   | v2.24.5   | 19.7 MB   |v7a        | [镜像下载](https://github.com/getsurfboard/surfboard/releases/download/2.24.5/mobile-armeabi-v7a-release.apk) |
+| Surfboard   | v2.24.5   | 44.4 MB   |通用版本    | [镜像下载](https://github.com/getsurfboard/surfboard/releases/download/2.24.5/mobile-universal-release.apk) |
 | FlClash     |           |           |v8a        | [镜像下载](https://github.com/chen08209/FlClash/releases/download/v0.8.66/FlClash-0.8.66-android-arm64-v8a.apk) |
 | FlClash     |           |           |v7a        | [镜像下载](https://github.com/chen08209/FlClash/releases/download/v0.8.66/FlClash-0.8.66-android-armeabi-v7a.apk) |
 
