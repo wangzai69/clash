@@ -84,7 +84,6 @@
 | 代理工具名称    | 最新版本  | 文件大小  | 描述  | 安装       |
 |----------------|-----------|-----------|------|-------------|
 | Shadowrocket |   V2.2.61 |  42.4 MB | $2.99    | [镜像下载](https://apps.apple.com/us/app/shadowrocket/id932747118) |
-|有提供免费下载的ID[2025官方shadowrocket小火箭免费下载（终结篇）实时更新](https://github.com/wangzai69/shadowrocket)|
 | Quantumult X |   V1.5.0  |  24.3 MB |$7.99     | [镜像下载](https://apps.apple.com/us/app/quantumult-x/id1443988620) |
 | Stash        |   V2.2.61 | 112.5 MB | $3.99    | [镜像下载](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349) |
 | Hiddify      |   V2.7.0 | 147.4 MB  | $0    | [镜像下载](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349) |
@@ -96,6 +95,7 @@
 | Clash Verge Rev|  v2.1.2   |  49.5 MB  |apple M芯片        | [镜像下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.1.2/Clash.Verge_2.1.2_aarch64.dmg) |
 | V2rayU         |  v4.2.5   |   29.5 MB |apple M芯片      | [镜像下载](https://github.com/yanue/V2rayU/releases/download/v4.2.5/V2rayU-arm64.dmg) |
 | V2rayU         |  v4.2.5   |   29.5 MB |intel芯片      | [镜像下载](https://github.com/yanue/V2rayU/releases/download/v4.2.5/V2rayU-64.dmg) |
+|有提供免费下载的ID[2025官方shadowrocket小火箭免费下载（终结篇）实时更新](https://github.com/wangzai69/shadowrocket)|
 
 <br>
 
@@ -106,20 +106,21 @@
 | Quantumult X |   V1.5.0  |  24.3 MB |$7.99     | [镜像下载](https://apps.apple.com/us/app/quantumult-x/id1443988620) |
 | Stash        |   V2.2.61 | 112.5 MB | $3.99    | [镜像下载](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349) |
 | Hiddify      |   V2.7.0 | 147.4 MB  | $0    | [镜像下载](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349) |
+|有提供免费下载的ID[2025官方shadowrocket小火箭免费下载（终结篇）实时更新](https://github.com/wangzai69/shadowrocket)|
 
 <br>
 
 ### Linux 代理工具
-| 名称     | 描述       | 安装       |
-|----------|------------|------------|
-| Clash Verge       | 64位           | [镜像下载](https://github.com/zzzgydi/clash-verge/releases/download/v1.3.8/clash-verge_1.3.8_amd64.deb) |
-| Clash Verge Rev   | 64位           | [镜像下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/clash-verge_1.7.7_amd64.deb) |
-| Clash Verge Rev   | 32位           | [镜像下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/clash-verge_1.7.7_i386.deb) |
-| Clash Verge Rev   | arm64架构      | [镜像下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/clash-verge_1.7.7_arm64.deb) |
-| Clash Verge Rev   | armv7架构      | [镜像下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/clash-verge_1.7.7_armhf.deb) |
-| FlClash   | AppImage   | [镜像下载](https://github.com/chen08209/FlClash/releases/download/v0.8.66/FlClash-0.8.66-linux-amd64.AppImage) |
-| FlClash   | deb      | [镜像下载](https://github.com/chen08209/FlClash/releases/download/v0.8.66/FlClash-0.8.66-linux-amd64.deb) |
-| FlClash   | rpm      | [镜像下载](https://github.com/chen08209/FlClash/releases/download/v0.8.66/FlClash-0.8.66-linux-amd64.rpm) |
+| 名称        | 最新版本  | 文件大小  | 描述      | 下载      |
+|-------------|-----------|-----------|-----------|-----------|
+| Clash Verge       |v1.3.8|34 MB| 64位           | [镜像下载](https://github.com/zzzgydi/clash-verge/releases/download/v1.3.8/clash-verge_1.3.8_amd64.deb) |
+| Clash Verge Rev   |v2.1.2|43.7 MB| 64位(Debian系) 使用 apt ./路径 安装 | [镜像下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.1.2/Clash.Verge_2.1.2_amd64.deb) |
+| Clash Verge Rev   |v2.1.2|41.4 MB| arm64(Debian系) 使用 apt ./路径 安装  | [镜像下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.1.2/Clash.Verge_2.1.2_arm64.deb) |
+| Clash Verge Rev   |v2.1.2|43.7 MB| x86_64位(Redhat系) 使用 dnf ./路径 安装| [镜像下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.1.2/Clash.Verge-2.1.2-1.x86_64.rpm) |
+| Clash Verge Rev   |v2.1.2|41.4 MB| aarch64(Redhat系) 使用 dnf ./路径 安装| [镜像下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.1.2/Clash.Verge-2.1.2-1.aarch64.rpm) |
+| FlClash   |v0.8.79|36.6 MB| AppImage   | [镜像下载](https://github.com/chen08209/FlClash/releases/download/v0.8.79/FlClash-0.8.79-linux-amd64.AppImage) |
+| FlClash   |v0.8.79|28.4 MB| deb      | [镜像下载](https://github.com/chen08209/FlClash/releases/download/v0.8.79/FlClash-0.8.79-linux-amd64.deb) |
+| FlClash   |v0.8.79|35.1 MB| rpm      | [镜像下载](https://github.com/chen08209/FlClash/releases/download/v0.8.79/FlClash-0.8.79-linux-amd64.rpm) |
 
 <br>
 
