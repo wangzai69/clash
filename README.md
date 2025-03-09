@@ -68,9 +68,12 @@
 |----------------|-----------|-----------|------|-------------|
 | Clash          | v0.20.39  |  82.3 MB  |作者已删库| [64位备份](https://dl.haojichang.com/apps/clash_for_windows/Clash.for.Windows.Setup.0.20.39.arm64.exe) |
 | Clash          | v0.20.39  |  78.9 MB  |作者已删库| [32位备份](https://dl.haojichang.com/apps/clash_for_windows/Clash.for.Windows.Setup.0.20.39.ia32.exe) |
-| Clash Verge    | v1.3.8    |  21.7 MB  | 64位 | [镜像下载](https://github.com/zzzgydi/clash-verge/releases/download/v1.3.8/Clash.Verge_1.3.8_x64-setup.exe) |
-| Clash Verge Rev| v2.1.2    |  31.4 MB  | 64位 | [镜像下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.1.2/Clash.Verge_2.1.2_x64-setup.exe) |
-| FlClash        | v0.8.79   |  26.3 MB  | 64位| [镜像下载](https://github.com/chen08209/FlClash/releases/download/v0.8.79/FlClash-0.8.79-windows-amd64-setup.exe) |
+| Clash Verge    | v1.3.8    |  21.7 MB  | x64exe | [镜像下载](https://github.com/zzzgydi/clash-verge/releases/download/v1.3.8/Clash.Verge_1.3.8_x64-setup.exe) |
+| Clash Verge    | v1.3.8    |  21.7 MB  | x64zip | [镜像下载](https://github.com/zzzgydi/clash-verge/releases/download/v1.3.8/Clash.Verge_1.3.8_x64-setup.nsis.zip) |
+| Clash Verge Rev| v2.1.2    |  31.4 MB  | x64exe | [镜像下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.1.2/Clash.Verge_2.1.2_x64-setup.exe) |
+| Clash Verge Rev| v2.1.2    |  28.4 MB  | arm64exe | [镜像下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.1.2/Clash.Verge_2.1.2_arm64-setup.exe) |
+| Clash Verge Rev| v2.0.2    |  162 MB  | x86zip | [镜像下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.0.2/Clash.Verge_2.0.2_x86_fixed_webview2-setup.nsis.zip) |
+| FlClash        | v0.8.79   |  26.3 MB  | amd64位| [镜像下载](https://github.com/chen08209/FlClash/releases/download/v0.8.79/FlClash-0.8.79-windows-amd64-setup.exe) |
 | v2rayN         | v7.10.3   |  130 MB   | 64位| [镜像下载](https://github.com/2dust/v2rayN/releases/download/7.10.3/v2rayN-windows-64-SelfContained.zip) |
 | v2rayN         | v7.10.3   |  91.9 MB  | arm64 | [镜像下载](https://github.com/2dust/v2rayN/releases/download/7.10.3/v2rayN-windows-arm64-desktop.zip) |
 | v2rayN         | v6.60     |  26.7 MB  | 32位 | [镜像下载](https://github.com/2dust/v2rayN/releases/download/6.60/v2rayN-32.zip) |
