@@ -83,26 +83,28 @@
 ### MacOS 代理工具
 | 代理工具名称    | 最新版本  | 文件大小  | 描述  | 安装       |
 |----------------|-----------|-----------|------|-------------|
+| Shadowrocket |   V2.2.61 |  42.4 MB | $2.99    | [镜像下载](https://apps.apple.com/us/app/shadowrocket/id932747118) |
+| Quantumult X |   V1.5.0  |  24.3 MB |$7.99     | [镜像下载](https://apps.apple.com/us/app/quantumult-x/id1443988620) |
+| Stash        |   V2.2.61 | 112.5 MB | $3.99    | [镜像下载](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349) |
+| Hiddify      |   V2.7.0 | 147.4 MB  | $0    | [镜像下载](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349) |
 | Clash X        |           |           |作者已删库               | [备份下载](https://dl.haojichang.com/apps/ClashX/ClashX.dmg)
 | Clash X pro    |           |           |作者已删库               | [备份下载](https://1968040371-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-McII1PI7zEfc9cNdkcd%2Fuploads%2F2Kqh94E1yyNTreiTlsxi%2FClashX.dmg.zip?alt=media&token=461ddecc-49fb-474f-a8ab-ecf71337d26f) |
-| Clash Verge    |  v1.3.8   |  28.5 MB  | MacOS intel芯片          | [镜像下载](https://github.com/zzzgydi/clash-verge/releases/download/v1.3.8/Clash.Verge_1.3.8_x64.dmg) |
-| Clash Verge    |  v1.3.8   |  28.5 MB  | MacOS apple M芯片        | [镜像下载](https://github.com/zzzgydi/clash-verge/releases/download/v1.3.8/Clash.Verge_1.3.8_aarch64.dmg) |
-| Clash Verge Rev|  v2.1.2   |  52.1 MB  | MacOS intel芯片          | [镜像下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.1.2/Clash.Verge_2.1.2_x64.dmg) |
-| Clash Verge Rev|  v2.1.2   |  49.5 MB  | MacOS apple M芯片        | [镜像下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.1.2/Clash.Verge_2.1.2_aarch64.dmg) |
-| sing-box VT    |  V1.11.4   |  25.3 MB  |Mac App Store非大陆           | [镜像下载](https://apps.apple.com/app/sing-box-vt/id6673731168) |
-| V2rayU         |  v4.2.5   |   29.5 MB | MacOS apple M芯片      | [镜像下载](https://github.com/yanue/V2rayU/releases/download/v4.2.5/V2rayU-arm64.dmg) |
-| V2rayU         |  v4.2.5   |   29.5 MB | MacOS intel芯片      | [镜像下载](https://github.com/yanue/V2rayU/releases/download/v4.2.5/V2rayU-64.dmg) |
-| Quantumult X   |   V1.5.0  |  24.3 MB  |Mac App Store非大陆      | [镜像下载](https://apps.apple.com/us/app/quantumult-x/id1443988620) |
-| Shadowrocket   |   V2.2.61 |  42.4 MB  | Mac App Store非大陆      | [镜像下载](https://apps.apple.com/us/app/shadowrocket/id932747118) |
+| Clash Verge    |  v1.3.8   |  28.5 MB  |intel芯片          | [镜像下载](https://github.com/zzzgydi/clash-verge/releases/download/v1.3.8/Clash.Verge_1.3.8_x64.dmg) |
+| Clash Verge    |  v1.3.8   |  28.5 MB  |apple M芯片        | [镜像下载](https://github.com/zzzgydi/clash-verge/releases/download/v1.3.8/Clash.Verge_1.3.8_aarch64.dmg) |
+| Clash Verge Rev|  v2.1.2   |  52.1 MB  |intel芯片          | [镜像下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.1.2/Clash.Verge_2.1.2_x64.dmg) |
+| Clash Verge Rev|  v2.1.2   |  49.5 MB  |apple M芯片        | [镜像下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.1.2/Clash.Verge_2.1.2_aarch64.dmg) |
+| V2rayU         |  v4.2.5   |   29.5 MB |apple M芯片      | [镜像下载](https://github.com/yanue/V2rayU/releases/download/v4.2.5/V2rayU-arm64.dmg) |
+| V2rayU         |  v4.2.5   |   29.5 MB |intel芯片      | [镜像下载](https://github.com/yanue/V2rayU/releases/download/v4.2.5/V2rayU-64.dmg) |
 
 <br>
 
 ### iOS 代理工具
-| 名称     | 描述       | 安装       |
-|----------|------------|------------|
-| Quantumult X   | Mac App Store非大陆id      | [镜像下载](https://apps.apple.com/us/app/quantumult-x/id1443988620) |
-| Shadowrocket   | Mac App Store非大陆id      | [镜像下载](https://apps.apple.com/us/app/shadowrocket/id932747118) |
-| Stash   | Mac App Store非大陆id      | [镜像下载](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349) |
+| 名称        | 最新版本  | 文件大小  | 描述      | 下载      |
+|-------------|-----------|-----------|-----------|-----------|
+| Shadowrocket |   V2.2.61 |  42.4 MB | $2.99    | [镜像下载](https://apps.apple.com/us/app/shadowrocket/id932747118) |
+| Quantumult X |   V1.5.0  |  24.3 MB |$7.99     | [镜像下载](https://apps.apple.com/us/app/quantumult-x/id1443988620) |
+| Stash        |   V2.2.61 | 112.5 MB | $3.99    | [镜像下载](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349) |
+| Hiddify      |   V2.7.0 | 147.4 MB  | $0    | [镜像下载](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349) |
 
 <br>
 
