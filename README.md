@@ -84,6 +84,8 @@
 |----------------|-----------|-----------|------|-------------|
 | Clash          | v0.20.39  |  82.3 MB  |作者已删库| [64位备份](https://dl.haojichang.com/apps/clash_for_windows/Clash.for.Windows.Setup.0.20.39.arm64.exe) |
 | Clash          | v0.20.39  |  78.9 MB  |作者已删库| [32位备份](https://dl.haojichang.com/apps/clash_for_windows/Clash.for.Windows.Setup.0.20.39.ia32.exe) |
+| Hiddify     | v2.5.7    | 35.4 MB   |x64zip        | [镜像下载](https://github.com/hiddify/hiddify-app/releases/download/v2.5.7/Hiddify-Windows-Portable-x64.zip) |
+| Hiddify     | v2.5.7    | 26.8 MB   |x64exe        | [镜像下载](https://github.com/hiddify/hiddify-app/releases/download/v2.5.7/Hiddify-Windows-Setup-x64.exe) |
 | Clash Verge    | v1.3.8    |  21.7 MB  | x64exe | [镜像下载](https://github.com/zzzgydi/clash-verge/releases/download/v1.3.8/Clash.Verge_1.3.8_x64-setup.exe) |
 | Clash Verge    | v1.3.8    |  21.7 MB  | x64zip | [镜像下载](https://github.com/zzzgydi/clash-verge/releases/download/v1.3.8/Clash.Verge_1.3.8_x64-setup.nsis.zip) |
 | Clash Verge Rev| v2.1.2    |  31.4 MB  | x64exe | [镜像下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.1.2/Clash.Verge_2.1.2_x64-setup.exe) |
@@ -102,7 +104,8 @@
 | Shadowrocket |   V2.2.61 |  42.4 MB | $2.99    | [镜像下载](https://apps.apple.com/us/app/shadowrocket/id932747118) |
 | Quantumult X |   V1.5.0  |  24.3 MB |$7.99     | [镜像下载](https://apps.apple.com/us/app/quantumult-x/id1443988620) |
 | Stash        |   V2.2.61 | 112.5 MB | $3.99    | [镜像下载](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349) |
-| Hiddify      |   V2.7.0 | 147.4 MB  | $0    | [镜像下载](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349) |
+| Hiddify      |   V2.5.7 | 58.3 MB  | pkg    | [镜像下载](https://github.com/hiddify/hiddify-app/releases/download/v2.5.7/Hiddify-MacOS-Installer.pkg) |
+| Hiddify      |   V2.5.7 | 58.1 MB  | dmg    | [镜像下载](https://github.com/hiddify/hiddify-app/releases/download/v2.5.7/Hiddify-MacOS.dmg) |
 | Clash X        |           |           |作者已删库               | [备份下载](https://dl.haojichang.com/apps/ClashX/ClashX.dmg)
 | Clash X pro    |           |           |作者已删库               | [备份下载](https://1968040371-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-McII1PI7zEfc9cNdkcd%2Fuploads%2F2Kqh94E1yyNTreiTlsxi%2FClashX.dmg.zip?alt=media&token=461ddecc-49fb-474f-a8ab-ecf71337d26f) |
 | Clash Verge    |  v1.3.8   |  28.5 MB  |intel芯片          | [镜像下载](https://github.com/zzzgydi/clash-verge/releases/download/v1.3.8/Clash.Verge_1.3.8_x64.dmg) |
@@ -118,6 +121,9 @@
 ### Linux 代理工具
 | 名称        | 最新版本  | 文件大小  | 描述      | 下载      |
 |-------------|-----------|-----------|-----------|-----------|
+| Hiddify     | v2.5.7    | 27.2 MB   |64位(DebPackage)        | [镜像下载](https://github.com/hiddify/hiddify-app/releases/download/v2.5.7/Hiddify-Debian-x64.deb) |
+| Hiddify     | v2.5.7    | 35.1 MB   |64位(AppImage) | [镜像下载](https://github.com/hiddify/hiddify-app/releases/download/v2.5.7/Hiddify-Linux-x64.AppImage) |
+| Hiddify     | v2.5.7    | 33.6 MB   |64位(RpmPackage)        | [镜像下载](https://github.com/hiddify/hiddify-next/releases/download/v2.5.7/Hiddify-rpm-x64.rpm) |
 | Clash Verge       |v1.3.8|34 MB| 64位           | [镜像下载](https://github.com/zzzgydi/clash-verge/releases/download/v1.3.8/clash-verge_1.3.8_amd64.deb) |
 | Clash Verge Rev   |v2.1.2|43.7 MB| 64位(Debian系) 使用 apt ./路径 安装 | [镜像下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.1.2/Clash.Verge_2.1.2_amd64.deb) |
 | Clash Verge Rev   |v2.1.2|41.4 MB| arm64(Debian系) 使用 apt ./路径 安装  | [镜像下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.1.2/Clash.Verge_2.1.2_arm64.deb) |
