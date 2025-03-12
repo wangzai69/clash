@@ -22,7 +22,7 @@
 <br>
 
 ## 📖 经典外链 | 实时更新
-#### [2025精选推荐vpn翻墙梯子节点机场（终结篇）实时更新](https://github.com/wangzai69/vpn)
+#### [2025精选vpn翻墙梯子节点机场推荐（终结篇）实时更新](https://github.com/wangzai69/vpn)
 #### [2025镜像下载安装官方翻墙软件（终结篇）实时更新](https://github.com/wangzai69/app)
 #### [2025免费下载官方shadowrocket小火箭（终结篇）实时更新](https://github.com/wangzai69/shadowrocket)
 #### [2025小火箭、clash详细图文使用教程（终结篇）实时更新](https://github.com/wangzai69/wiki)
