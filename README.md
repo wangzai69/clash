@@ -34,7 +34,7 @@
 
 [2025最新免费TikTok苹果安卓教程](https://github.com/wangzai69/tiktok)
 
-[更多文章更新中 ... ]()
+更多文章更新中 ...
 
 <br>
 
