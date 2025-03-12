@@ -1,4 +1,4 @@
-# 2025官方clash等节点代理工具镜像下载（终结篇）实时更新
+# 2025翻墙软件官方镜像下载节点代理工具（终结篇）实时更新
 2025实时更新 Clash中文官方最新版本 镜像下载 Clash Meta v2rayNG NekoBox surfboard flclash Clash Verge Shadowrocket Quantumult X android windows macos、ios 苹果 安卓
 
 ![Android](https://img.shields.io/badge/安卓-Android-brightgreen)
@@ -23,7 +23,7 @@
 
 ## 📖 经典外链 | 实时更新
 #### [2025精选vpn翻墙科学上网梯子节点机场（终结篇）实时更新](https://github.com/wangzai69/vpn)
-#### [2025官方clash等节点代理工具镜像下载（终结篇）实时更新](https://github.com/wangzai69/clash)
+#### [2025翻墙软件官方镜像下载节点代理工具（终结篇）实时更新](https://github.com/wangzai69/clash)
 #### [2025官方shadowrocket小火箭免费下载（终结篇）实时更新](https://github.com/wangzai69/shadowrocket)
 #### [2025小火箭、clash详细图文使用教程（终结篇）实时更新](https://github.com/wangzai69/wiki)
 #### [2025官方谷歌商店 GooglePlay服务框架（终结篇）实时更新](https://github.com/wangzai69/GooglePlay)
