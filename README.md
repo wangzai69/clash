@@ -52,9 +52,9 @@
 | Clash Meta  | v2.11.7   | 22.6 MB   |v8a        | [镜像下载](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.7/cmfa-2.11.7-meta-arm64-v8a-release.apk) |
 | Clash Meta  | v2.11.7   | 22.8 MB   |v7a        | [镜像下载](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.1/cmfa-2.11.1-meta-armeabi-v7a-release.apk) |
 | Clash Meta  | v2.11.7   | 57.3 MB   |通用       | [镜像下载](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.7/cmfa-2.11.7-meta-universal-release.apk) |
-| hiddify     | v2.5.7    | 48.4 MB   |v8a        | [镜像下载](https://github.com/hiddify/hiddify-app/releases/download/v2.5.7/Hiddify-Android-arm64.apk) |
-| hiddify     | v2.5.7    | 46.8 MB   |v7a        | [镜像下载](https://github.com/hiddify/hiddify-app/releases/download/v2.5.7/Hiddify-Android-arm7.apk) |
-| hiddify     | v2.5.7    | 130 MB    |通用       | [镜像下载](https://github.com/hiddify/hiddify-app/releases/download/v2.5.7/Hiddify-Android-universal.apk) |
+| Hiddify     | v2.5.7    | 48.4 MB   |v8a        | [镜像下载](https://github.com/hiddify/hiddify-app/releases/download/v2.5.7/Hiddify-Android-arm64.apk) |
+| Hiddify     | v2.5.7    | 46.8 MB   |v7a        | [镜像下载](https://github.com/hiddify/hiddify-app/releases/download/v2.5.7/Hiddify-Android-arm7.apk) |
+| Hiddify     | v2.5.7    | 130 MB    |通用       | [镜像下载](https://github.com/hiddify/hiddify-app/releases/download/v2.5.7/Hiddify-Android-universal.apk) |
 | v2rayNG     | v1.9.39   | 29.5 MB   |v8a        | [镜像下载](https://github.com/2dust/v2rayNG/releases/download/1.9.39/v2rayNG_1.9.39_arm64-v8a.apk) |
 | v2rayNG     | v1.9.39   | 29.8 MB   |v7a        | [镜像下载](https://github.com/2dust/v2rayNG/releases/download/1.9.39/v2rayNG_1.9.39_armeabi-v7a.apk) |
 | v2rayNG     | v1.9.39   | 83.5 MB   |通用       | [镜像下载](https://github.com/2dust/v2rayNG/releases/download/1.9.39/v2rayNG_1.9.39_universal.apk) |
