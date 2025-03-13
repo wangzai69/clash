@@ -26,7 +26,7 @@
 
 [2025翻墙软件镜像下载安装clash等](https://github.com/wangzai69/app)
 
-[2025免费下载官方shadowrocket小火箭](https://github.com/wangzai69/shadowrocket)
+[2025免费下载shadowrocket小火箭图文](https://github.com/wangzai69/shadowrocket)
 
 [2025翻墙软件如何使用详细图文教程](https://github.com/wangzai69/wiki)
 
