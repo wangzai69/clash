@@ -30,7 +30,7 @@
 
 [2025翻墙软件如何使用详细图文教程](https://github.com/wangzai69/wiki)
 
-[2025官方谷歌商店GooglePlay服务框架](https://github.com/wangzai69/GooglePlay)
+[2025官方谷歌框架GooglePlay商店服务](https://github.com/wangzai69/GooglePlay)
 
 [2025最新免费TikTok苹果安卓教程](https://github.com/wangzai69/tiktok)
 
