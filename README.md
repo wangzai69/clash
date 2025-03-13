@@ -24,7 +24,7 @@
 ## 📖 经典外链 | 实时更新
 [2025精选翻墙梯子节点机场vpn推荐](https://github.com/wangzai69/vpn)
 
-[2025翻墙软件官方镜像下载安装clash等](https://github.com/wangzai69/app)
+[2025翻墙软件官方镜像下载clash等等](https://github.com/wangzai69/app)
 
 [2025免费下载shadowrocket小火箭图文](https://github.com/wangzai69/shadowrocket)
 
