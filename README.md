@@ -77,7 +77,7 @@
 ### iOS 代理工具
 
 - [免费下载 Shadowrocket 并获取免费美区ID](https://github.com/wangzai69/shadowrocket)
-  
+
 | 名称        | 最新版本  | 文件大小  | 描述      | 下载      |
 |-------------|-----------|-----------|-----------|-----------|
 | Shadowrocket |   V2.2.61 |  42.4 MB | $2.99    | [镜像下载](https://apps.apple.com/us/app/shadowrocket/id932747118) |
@@ -107,6 +107,9 @@
 <br>
 
 ### MacOS 代理工具
+
+- [免费下载 Shadowrocket 并获取免费美区ID](https://github.com/wangzai69/shadowrocket)
+
 | 代理工具名称    | 最新版本  | 文件大小  | 描述  | 安装       |
 |----------------|-----------|-----------|------|-------------|
 | Shadowrocket |   V2.2.61 |  42.4 MB | $2.99    | [镜像下载](https://apps.apple.com/us/app/shadowrocket/id932747118) |
@@ -122,7 +125,6 @@
 | Clash Verge Rev|  v2.1.2   |  49.5 MB  |apple M芯片        | [镜像下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.1.2/Clash.Verge_2.1.2_aarch64.dmg) |
 | V2rayU         |  v4.2.5   |   29.5 MB |apple M芯片      | [镜像下载](https://github.com/yanue/V2rayU/releases/download/v4.2.5/V2rayU-arm64.dmg) |
 | V2rayU         |  v4.2.5   |   29.5 MB |intel芯片      | [镜像下载](https://github.com/yanue/V2rayU/releases/download/v4.2.5/V2rayU-64.dmg) |
-- [免费下载 Shadowrocket](https://github.com/wangzai69/shadowrocket)
   
 <br>
 
