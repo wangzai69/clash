@@ -1,4 +1,4 @@
-# 2025镜像下载安装clash翻墙软件（终结篇）实时更新
+# 2025翻墙软件官方镜像下载安装clash等（终结篇）实时更新
 最全最新版本翻墙软件镜像下载 小火箭 Clash Shadowrocket ClashX ClashVerge Clashforwindows Clashforandroid ClashMeta Hiddify v2rayNG NekoBox Surfboard FlClash QuantumultX Stash Hiddify android windows macos ios 苹果 安卓
 
 ![Android](https://img.shields.io/badge/安卓-Android-brightgreen)
@@ -24,7 +24,7 @@
 ## 📖 经典外链 | 实时更新
 [2025精选翻墙梯子节点机场vpn推荐](https://github.com/wangzai69/vpn)
 
-[2025翻墙软件镜像下载安装clash等](https://github.com/wangzai69/app)
+[2025翻墙软件官方镜像下载安装clash等](https://github.com/wangzai69/app)
 
 [2025免费下载shadowrocket小火箭图文](https://github.com/wangzai69/shadowrocket)
 
