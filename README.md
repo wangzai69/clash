@@ -40,9 +40,9 @@
 
 ## 📂 本页目录
 - [ Android 代理工具](#Android-代理工具)  
+- [ iOS 代理工具](#iOS-代理工具)
 - [ Windows 代理工具](#Windows-代理工具)
 - [ MacOS 代理工具](#MacOS-代理工具)
-- [ iOS 代理工具](#iOS-代理工具)
 - [ Linux 代理工具](#Linux-代理工具)
 - [ 关于我 | About Me ](#-关于我--about-me)  
 - [ 联系方式 | Contact](#-联系方式--contact)
@@ -75,13 +75,14 @@
 <br>
 
 ### iOS 代理工具
+
+- [免费下载 Shadowrocket 并获取免费美区ID](https://github.com/wangzai69/shadowrocket)
 | 名称        | 最新版本  | 文件大小  | 描述      | 下载      |
 |-------------|-----------|-----------|-----------|-----------|
 | Shadowrocket |   V2.2.61 |  42.4 MB | $2.99    | [镜像下载](https://apps.apple.com/us/app/shadowrocket/id932747118) |
 | Quantumult X |   V1.5.0  |  24.3 MB |$7.99     | [镜像下载](https://apps.apple.com/us/app/quantumult-x/id1443988620) |
 | Stash        |   V2.2.61 | 112.5 MB | $3.99    | [镜像下载](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349) |
 | Hiddify      |   V2.7.0 | 147.4 MB  | $0    | [镜像下载](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349) |
-- [免费下载 Shadowrocket](https://github.com/wangzai69/shadowrocket)
 
 <br>
 
