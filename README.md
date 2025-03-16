@@ -1,5 +1,6 @@
 🕛 **最后更新时间：`2025年03月16日12时`**  
-⭐ **如果你喜欢这个分享请 ⭐Star 收藏** 
+⭐ **如果你喜欢这个分享请 ⭐Star 收藏**  
+🚀 **如何你想查看更多的资源请[返回首页](https://github.com/wangzai69/fanqiang)**
 
 #
 <br>
@@ -107,26 +108,3 @@
 | FlClash   |v0.8.79|36.6 MB| AppImage   | [镜像下载](https://github.com/chen08209/FlClash/releases/download/v0.8.79/FlClash-0.8.79-linux-amd64.AppImage) |
 | FlClash   |v0.8.79|28.4 MB| deb      | [镜像下载](https://github.com/chen08209/FlClash/releases/download/v0.8.79/FlClash-0.8.79-linux-amd64.deb) |
 | FlClash   |v0.8.79|35.1 MB| rpm      | [镜像下载](https://github.com/chen08209/FlClash/releases/download/v0.8.79/FlClash-0.8.79-linux-amd64.rpm) |
-
-#
-
-<br>
-
-| 经典分享丨更多文章更新中 | 
-|------|
-|[精选翻墙梯子节点机场vpn推荐](https://github.com/wangzai69/vpn)                |
-|[翻墙软件官方镜像下载clash等等](https://github.com/wangzai69/app)              |
-|[免费下载shadowrocket小火箭图文](https://github.com/wangzai69/shadowrocket)   |
-|[翻墙软件如何使用详细图文教程](https://github.com/wangzai69/wiki)               |
-|[官方谷歌框架GooglePlay商店服务](https://github.com/wangzai69/GooglePlay)      |
-|[最新免拔卡TikTok苹果安卓教程](https://github.com/wangzai69/tiktok)             |
-|[推特Twitter下载账号并解除敏感](https://github.com/wangzai69/Twitter)             |
-
-<br>
-
-❤️ **GitHub**: [@wangzai69](https://github.com/wangzai69)  
-📧 **Email**: [eitaanthony7@gmail.com](mailto:eitaanthony7@gmail.com)  
-🌐 **网站**: [https://github.com/wangzai69](https://github.com/wangzai69)  
-
-<br>
-
