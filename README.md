@@ -13,9 +13,9 @@
 |02.[镜像下载 Clash 等官方代理工具](https://github.com/wangzai69/clash)              |
 |03.[免费共享美区AppleID下载小火箭](https://github.com/wangzai69/shadowrocket)   |
 |04.[代理工具如何使用？图文教程](https://github.com/wangzai69/wiki)               |
-|06.[谷歌框架 GooglePlay 商店服务](https://github.com/wangzai69/GooglePlay)      |
-|07.[免拔卡 TikTok 苹果安卓教程](https://github.com/wangzai69/tiktok)             |
-|08.[推特 Twitter 安装并解除敏感](https://github.com/wangzai69/Twitter)             |
+|05.[谷歌框架 GooglePlay 商店服务](https://github.com/wangzai69/GooglePlay)      |
+|06.[免拔卡 TikTok 苹果安卓教程](https://github.com/wangzai69/tiktok)             |
+|07.[推特 Twitter 安装并解除敏感](https://github.com/wangzai69/Twitter)             |
 
 <br><br>
 
