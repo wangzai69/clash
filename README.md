@@ -14,6 +14,6 @@
 |04.[Clash Shadowrocket 图文教程](https://github.com/wangzai69/fanqiang/blob/main/wiki/%E4%BB%A3%E7%90%86%E5%B7%A5%E5%85%B7%E6%95%99%E7%A8%8B.md)               |
 |05.[小米/红米/oppo/vivo/华为/荣耀/谷歌框架](https://github.com/wangzai69/fanqiang/blob/main/wiki/GooglePlay.md)      |
 |06.[免拔卡 TikTok 苹果安卓教程](https://github.com/wangzai69/fanqiang/blob/main/wiki/TikTok.md)             |
-|07.[推特 Twitter 安装并解除敏感](https://github.com/wangzai69/fanqiang/blob/main/wiki/Twitter.md)             |
+|07.[推特 Twitter 安装并解除敏感](https://github.com/wangzai69/fanqiang/blob/main/wiki/twitter/Twitter.md)             |
 
 <br><br>
