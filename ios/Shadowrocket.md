@@ -12,7 +12,7 @@
 - 图3：进入账户 <code>拉到底</code>
 - 图4：选择 <code>退出登录</code> 退出自己的账号
 
-![图片描述](https://github.com/wangzai69/wiki/blob/main/images/11.jpg?raw=true)
+![图片描述](https://github.com/wangzai69/fanqiang/blob/main/images/11.jpg?raw=true)
 
 <br><br>
 
@@ -22,7 +22,7 @@
 - 图8：搜索安装 <code>Shadowrocket</code> 代理工具
 - 如何使用shadowrocket👉[图文教程](https://github.com/wangzai69/fanqiang/blob/main/wiki/%E4%BB%A3%E7%90%86%E5%B7%A5%E5%85%B7%E6%95%99%E7%A8%8B.md) 
 
-![图片描述](https://github.com/wangzai69/wiki/blob/main/images/22.jpg?raw=true)
+![图片描述](https://github.com/wangzai69/fanqiang/blob/main/images/22.jpg?raw=true)
 
 <br><br>
 
