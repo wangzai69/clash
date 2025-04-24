@@ -24,5 +24,5 @@
 - 图3：选择 `Content you see`
 - 图4：勾选 `Display medla that may contain sensltlve content`
 
-![图片描述](https://github.com/wangzai69/Twitter/blob/main/11.png?raw=true)
+![图片描述](https://github.com/wangzai69/fanqiang/blob/main/wiki/twitter/11.png?raw=true)
 
