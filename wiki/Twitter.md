@@ -1,9 +1,4 @@
 # 推特 Twitter 安装并解除敏感
-
-
-<br><br>
-
-## 前言
 🕛 **更新时间 ：`2025年04月24日10时`**  
 ⭐ **如果喜欢[前往首页](https://github.com/wangzai69/fanqiang) ⭐ Star 收藏**  
 
