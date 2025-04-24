@@ -23,8 +23,8 @@
 <br>
 
 #### Twitter（X）安装
-- 安卓在谷歌商店安装 [官方谷歌框架GooglePlay商店服务](https://github.com/wangzai69/GooglePlay) 
-- 苹果在商店安装请参照 [免费下载shadowrocket小火箭图文](https://github.com/wangzai69/shadowrocket)
+- 安卓在谷歌商店安装 [小米/红米/oppo/vivo/华为/荣耀/谷歌框架](https://github.com/wangzai69/fanqiang/blob/main/wiki/GooglePlay.md)
+- 苹果在商店安装请参照 [免费共享美区AppleID下载Shadowrocket](https://github.com/wangzai69/fanqiang/blob/main/ios/Shadowrocket.md)
 
 #### Twitter（X）账号推荐
 - [谷歌账号1](https://www.henduohao.com/)
