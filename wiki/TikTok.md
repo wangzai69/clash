@@ -30,7 +30,7 @@
 - 港中印不能使用tiktok，地区选哪里就是刷哪个国家的视频，节点要对应国家。
 - 打开<code>Shadowrocket</code>><code>首页</code>><code>全局路由</code>><code>代理</code>
 - 用<code>美ID</code>登录<code>App Store</code>商店下载<code>Tik Tok</code>
-- 下载Tik Tok教程可以参照 [免费下载官方shadowrocket小火箭](https://github.com/wangzai69/shadowrocket)
+- 下载Tik Tok教程可以参照 [免费共享美区AppleID下载Shadowrocket](https://github.com/wangzai69/fanqiang/blob/main/ios/Shadowrocket.md)
   
 <br>
 
