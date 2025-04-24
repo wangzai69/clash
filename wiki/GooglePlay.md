@@ -1,4 +1,4 @@
-# 谷歌框架 GooglePlay 商店服务
+# 谷歌框架 GooglePlay 商店服务/小米/红米/oppo/vivo/华为/荣耀
 
 
 <br><br>
