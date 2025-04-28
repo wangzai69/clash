@@ -1,4 +1,4 @@
-# Clash Shadowrocket 翻墙项目库
+# 翻墙项目库
 
 
 <br><br>
