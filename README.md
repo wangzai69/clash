@@ -1,4 +1,4 @@
-# 官方镜像下载Clash、Shadowrocket、共享美区ID、AppleID、小火箭
+# 镜像下载官方Clash、Shadowrocket、共享美区ID、AppleID、小火箭
 
 
 <br><br>
